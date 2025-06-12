@@ -1,4 +1,5 @@
 # Packing List
+[← Back to Itinerary](README.md)
 
 ## Essentials
 - Passport, tickets, allergy cards (French & German)

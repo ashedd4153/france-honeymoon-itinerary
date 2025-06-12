@@ -1,4 +1,5 @@
 # Lyon Plan (Days 5–7)
+[← Back to Itinerary](README.md)
 
 ## 🏨 Stay
 - In Vieux Lyon or near Presqu’île
@@ -12,3 +13,4 @@
 - Le Kitchen Café
 - La Bijouterie
 - Les Apothicaires
+- [Infatuation Guide: Best Lyon Restaurants](https://www.theinfatuation.com/lyon/guides/best-restaurants-lyon)

@@ -1,4 +1,5 @@
 # Paris Plan (Days 1–4)
+[← Back to Itinerary](README.md)
 
 ## 🏨 Stay
 - Boutique hotel in the Marais or Saint-Germain
@@ -14,3 +15,4 @@
 - Clamato (seafood, casual)
 - Mokonuts (lunch/brunch)
 - [Use allergy card in French]
+- [Infatuation Guide: Best Paris Restaurants](https://www.theinfatuation.com/paris/guides/best-paris-restaurants)

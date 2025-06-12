@@ -1,4 +1,5 @@
 # Train Planning: Paris → Lyon → Annecy
+[← Back to Itinerary](README.md)
 
 ## Paris → Lyon
 - **Route:** Paris Gare de Lyon → Lyon Part-Dieu
