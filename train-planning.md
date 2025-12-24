@@ -4,10 +4,15 @@
 
 ## Route Overview
 
-All segments use France's TGV high-speed rail network until you cross into Spain.
+All segments use France's TGV high-speed rail network for long distances.
 
 ```
-CDG Airport ──TGV 4h──→ Bordeaux ──TGV 2h──→ Saint-Jean-de-Luz ──30min──→ San Sebastián ──→ Paris (fly/train)
+CDG Airport ──TGV 2h──→ Bordeaux
+Bordeaux ──TGV 2.5h──→ San Sebastián (Hendaye)
+San Sebastián ──30min──→ Saint-Jean-de-Luz
+Saint-Jean-de-Luz ──TGV 4h──→ Loire Valley (Tours)
+Loire Valley ──TGV 1h──→ Versailles (via Montparnasse)
+Versailles ──30min──→ Paris
 ```
 
 ---
@@ -21,86 +26,78 @@ CDG Airport ──TGV 4h──→ Bordeaux ──TGV 2h──→ Saint-Jean-de-L
 |------|---------|
 | 📅 Booking opens | ~March 2026 for July travel |
 | 🌐 Book at | [SNCF Connect](https://www.sncf-connect.com/en-en/) |
-| 📱 App | Download SNCF Connect app for mobile tickets |
 | 💡 Tip | "Prem's" fares are cheapest but non-refundable |
 
 ---
 
-## Segment 1: CDG Airport → Bordeaux (Arrival Day)
+## Segment 1: CDG Airport → Bordeaux
+**Date: July 20 (Monday)**
 
 | Field | Details |
 |-------|---------|
-| **Date** | July 20 (Monday) – same day as flight arrival |
-| **Departure** | Aéroport CDG 2 TGV (integrated in Terminal 2) |
+| **Departure** | Aéroport CDG 2 TGV |
 | **Arrival** | Bordeaux Saint-Jean |
-| **Train** | TGV INOUI |
-| **Duration** | ~4 hours |
-| **Target departure** | ~12:00 PM (leaves buffer after 10 AM flight landing) |
-| **Target arrival** | ~4:00 PM (perfect for vineyard hotel check-in) |
-
-### Intermediate Stops (CDG → Bordeaux)
-```
-CDG 2 TGV → Marne-la-Vallée → Massy TGV → St-Pierre-des-Corps → Poitiers → Angoulême → Bordeaux Saint-Jean
-```
-
-### 💡 Day 1 Timeline
-| Time | Activity |
-|------|----------|
-| 10:00 AM | Flight lands at CDG |
-| 10:00–11:30 | Immigration, baggage, walk to TGV station |
-| ~12:00 PM | Board TGV to Bordeaux |
-| ~4:00 PM | Arrive Bordeaux Saint-Jean |
-| 4:30 PM | Taxi/transfer to vineyard hotel |
+| **Duration** | ~2h (Direct TGV) |
+| **Buffer** | Target ~1:00 PM departure for 10:55 AM landing |
 
 ---
 
-## Segment 2: Bordeaux → Saint-Jean-de-Luz
+## Segment 2: Bordeaux → San Sebastián
+**Date: July 21 (Tuesday)**
 
 | Field | Details |
 |-------|---------|
-| **Date** | July 22 (Wednesday) |
-| **Station** | Bordeaux Saint-Jean → Saint-Jean-de-Luz |
-| **Train** | TGV INOUI |
-| **Duration** | ~2 hours |
-
-### Intermediate Stops
-```
-Bordeaux Saint-Jean → Dax → Bayonne → Biarritz → Saint-Jean-de-Luz
-```
+| **Route** | Bordeaux → Hendaye (then Euskotren/Taxi to San Sebastián) |
+| **Duration** | ~2.5h (TGV to Hendaye) + 30m transfer |
 
 ---
 
-## Segment 3: Saint-Jean-de-Luz → San Sebastián
+## Segment 3: San Sebastián → Saint-Jean-de-Luz
+**Date: July 24 (Friday)**
 
 | Field | Details |
 |-------|---------|
-| **Date** | July 24 (Friday) |
-| **Options** | Euskotren (~45 min, scenic) or Bus (~30 min) |
-| **Note** | Schengen zone – no passport control at border |
-
-### Euskotren Details
-- Departs from Saint-Jean-de-Luz SNCF station
-- Scenic coastal route along the Basque coast
-- Arrives at San Sebastián Amara station
+| **Option** | Euskotren (~45 min) or Taxi (~20 min) |
 
 ---
 
-## Segment 4: San Sebastián → Paris (End of Trip)
+## Segment 4: Saint-Jean-de-Luz → Loire Valley (Tours)
+**Date: July 26 (Sunday)**
 
 | Field | Details |
 |-------|---------|
-| **Date** | July 27 or 28 |
-| **Option A** | Train: San Sebastián → Hendaye → TGV to Paris (~6h total) |
-| **Option B** | Fly: Bilbao (BIO) → Paris (CDG) ~1.5h |
+| **Departure** | Saint-Jean-de-Luz |
+| **Arrival** | Tours (or Saint-Pierre-des-Corps) |
+| **Duration** | ~4 hours (TGV via Bordeaux) |
+
+---
+
+## Segment 5: Loire Valley → Versailles
+**Date: July 27 (Monday)**
+
+| Field | Details |
+|-------|---------|
+| **Departure** | Tours Centre / St-Pierre-des-Corps |
+| **Arrival** | Versailles Chantiers |
+| **Connection** | TGV to Paris Montparnasse, then same-station transfer to Line N |
+| **Duration** | ~1.5 hours |
+
+---
+
+## Segment 6: Versailles → Paris
+**Date: July 28 (Tuesday)**
+
+| Field | Details |
+|-------|---------|
+| **Options** | RER C, Transilien Line N (to Montparnasse), or Line L |
+| **Duration** | 30–45 minutes |
 
 ---
 
 ## Booking Tips
 
-| Tip | Details |
-|-----|---------|
-| 📅 Book early | TGV fares are cheapest when released (~4 months ahead) |
-| 🎫 Flexibility | "Prem's" fares are cheap but non-refundable |
-| 📱 App | Download SNCF Connect app for tickets on phone |
-| 🧳 Luggage | No weight limits on trains – bring what you need |
-| 🔔 Reminder | Set calendar alert for March 2026 to book July trains |
+- **Prem's Fares**: Book as soon as sales open (March) for best prices.
+- **Seat Selection**: Top deck on TGV Duplex is usually worth it for the view.
+- **App**: Store all tickets in the **SNCF Connect** app.
+
+[← Back to Itinerary](README.md)

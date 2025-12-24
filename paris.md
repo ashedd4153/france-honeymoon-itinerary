@@ -1,7 +1,3 @@
-# Paris (Days 1–5)
-[← Back to Itinerary](README.md)
-
-## 🗓 July 20–24
 
 Arrive Monday morning after the red-eye. Five days of art, food, and romance.
 
@@ -17,7 +13,6 @@ Arrive Monday morning after the red-eye. Five days of art, food, and romance.
 ### 1. 🌿 La Fantaisie ⭐ BEST VALUE
 **$532/night** ($2,451 total) | TripAdvisor 4.8/5 | 9th arr
 
-![La Fantaisie](images/la_fantaisie.png)
 
 **Location:** Rue Cadet – near Montmartre, not touristy, walkable to Galeries Lafayette, Opera, Louvre
 **Vibe:** Whimsical floral design, opened June 2023, "lush oasis"
@@ -30,7 +25,6 @@ Arrive Monday morning after the red-eye. Five days of art, food, and romance.
 ### 2. 🍫 Fauchon L'Hotel Paris ⭐ BEST FOR FOODIES
 **$650/night** ($2,969 total) | TripAdvisor 4.9/5 | 8th arr
 
-![Fauchon L'Hotel](images/fauchon_lhotel.png)
 
 **Location:** Near Madeleine – walk to Place de la Concorde, Rue du Faubourg Saint-Honoré boutiques
 **Vibe:** Gourmet-luxury, magenta/black design, champagne & macarons at check-in
@@ -43,7 +37,6 @@ Arrive Monday morning after the red-eye. Five days of art, food, and romance.
 ### 3. 🎨 SO/ Paris Hotel ⭐ BEST VIEWS
 **$545/night** ($2,510 total) | TripAdvisor 4.4/5 | 4th arr
 
-![SO/ Paris](images/so_paris.png)
 
 **Location:** Bas Marais on the Seine – near metro, panoramic views of Seine, Eiffel Tower, Notre-Dame
 **Vibe:** Fashion-forward, colorful design, Accor lifestyle brand
@@ -56,7 +49,6 @@ Arrive Monday morning after the red-eye. Five days of art, food, and romance.
 ### 4. 🎭 Brach Paris ⭐ BEST DESIGN
 **$695/night** ($3,169 total) | TripAdvisor 4.1/5 | 16th arr
 
-![Brach Paris](images/brach_paris.png)
 
 **Location:** 16th arr – 15-min walk to Eiffel Tower, near Fondation Louis Vuitton, Bois de Boulogne
 **Vibe:** Philippe Starck design, eclectic art, converted 1970s post office
@@ -69,7 +61,6 @@ Arrive Monday morning after the red-eye. Five days of art, food, and romance.
 ### 5. 🗼 Sax Paris LXR Hotels ⭐ BEST EIFFEL VIEWS
 **$697/night** ($3,175 total) | TripAdvisor 4.5/5 | 7th arr
 
-![Sax Paris LXR](images/sax_paris_lxr.png)
 
 **Location:** 7th arr near Avenue de Saxe – close to Eiffel Tower but away from chaos
 **Vibe:** New Hilton luxury brand, modern interiors, rooftop with views
@@ -88,6 +79,25 @@ Arrive Monday morning after the red-eye. Five days of art, food, and romance.
 | **Fauchon** | $650 | $2,969 | 8th | Foodies |
 | **Brach Paris** | $695 | $3,169 | 16th | Design Lovers |
 | **Sax LXR** | $697 | $3,175 | 7th | Eiffel Views |
+
+---
+
+### 🆚 Why are these cheaper than the "Palaces"?
+
+You're seeing **$500–700** vs. **$1,500–2,000+**. Here is the objective breakdown of why the price gap exists.
+
+#### ✅ "Good" Reasons (Smart Savings)
+- **Brand Heritage Tax:** You aren't paying for a name like "Ritz" or "Plaza Athénée." High-end Marriott/Dorchester hotels charge for the legacy.
+- **Modern Hardware:** Properties like **La Fantaisie** (2023) and **Sax LXR** are newer. You get USB-C ports and modern HVAC instead of "classic" (old) French plumbing and heavy drapes.
+- **Service Scale:** A Palace has a ~1:3 staff-to-guest ratio. These FHR hotels are closer to 1:1. You still get a concierge and turndown service, but not a dedicated butler for your floor.
+- **Marketing Strategy:** Newer hotels often use AMEX FHR to "buy" visibility, offering better rates to build a reputation.
+
+#### ⚠️ "Bad" Reasons (The Trade-offs)
+- **Location Prestige:** Palaces are on **Avenue Montaigne** or **Place Vendôme**. The FHR options are in great (often cooler) neighborhoods like **SoPi (9th)** or the **Bas Marais**, but they lack the "Golden Triangle" zip code.
+- **Room Scale:** In a Palace, a "Standard" room is often 400+ sq ft. In these FHR hotels, a Standard is "Paris-sized" (250–300 sq ft). You have to book a Junior Suite to match Palace space.
+- **Legacy "Vibe":** You won't find the gilding, crystal chandeliers, or "Napoleon stayed here" history. These are **lifestyle luxury**, not **institutional luxury**.
+
+**The Verdict:** For a honeymoon, these FHR options are the **"Value Splurge."** You get the $600 credit and $100 perks, and you're paying for the *actual* room rather than the history of the building.
 
 ---
 

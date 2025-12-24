@@ -1,80 +1,31 @@
 from __future__ import annotations
 
+import json
+import re
 from pathlib import Path
+from typing import Any
 
 import streamlit as st
 
 BASE_DIR = Path(__file__).parent
 
-LOCATIONS = [
-    {
-        "name": "Fly Out",
-        "dates": "July 19",
-        "days": 0,
-        "emoji": "🟥",
-        "summary": "Sunday evening departure from Newark; wake up in Paris.",
-        "file": "flight-planning.md",
-    },
-    {
-        "name": "Paris",
-        "dates": "July 20–24",
-        "days": 5,
-        "emoji": "🟩",
-        "summary": "Art museums, picnics, rooftop drinks, and dairy-conscious dining.",
-        "file": "paris.md",
-    },
-    {
-        "name": "Bordeaux",
-        "dates": "July 25–26",
-        "days": 2,
-        "emoji": "🟦",
-        "summary": "Wine capital of France – tastings, riverfront strolls, Saint-Émilion.",
-        "file": "bordeaux.md",
-    },
-    {
-        "name": "Saint-Jean-de-Luz",
-        "dates": "July 27–28",
-        "days": 2,
-        "emoji": "🟨",
-        "summary": "Romantic French Basque fishing village – harbor, seafood, tranquility.",
-        "file": "saint-jean-de-luz.md",
-    },
-    {
-        "name": "San Sebastián",
-        "dates": "July 29–Aug 1",
-        "days": 4,
-        "emoji": "🟪",
-        "summary": "Pintxos crawls, Michelin dining, Basque culture, Old Town charm.",
-        "file": "san-sebastian.md",
-    },
-    {
-        "name": "Fly Home",
-        "dates": "August 2",
-        "days": 0,
-        "emoji": "🟧",
-        "summary": "Sunday departure from Bilbao; optional Guggenheim stop.",
-        "file": "flight-planning.md",
-    },
-]
+# --- Data Loading ---
 
-PLANNING_DOCS = {
-    "Flight Planning": "flight-planning.md",
-    "Train Planning": "train-planning.md",
-    "Packing List": "packing-list.md",
-}
+def load_itinerary() -> dict[str, Any]:
+    itinerary_path = BASE_DIR / "itinerary.json"
+    if not itinerary_path.exists():
+        st.error(f"Error: {itinerary_path} not found.")
+        return {}
+    with open(itinerary_path, "r", encoding="utf-8") as f:
+        return json.load(f)
 
-CALENDAR_TABLE = """| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
-|-----|-----|-----|-----|-----|-----|-----|
-|     |     |     | 1   | 2   | 3   | 4   |
-| 5   | 6   | 7   | 8   | 9   | 10  | 11  |
-| 12  | 13  | 14  | 15  | 16  | 17  | 18  |
-| 🟥19 | 🟩20 | 🟩21 | 🟩22 | 🟩23 | 🟩24 | 🟦25 |
-| 🟦26 | 🟨27 | 🟨28 | 🟪29 | 🟪30 | 🟪31 | 🟪1 |
-| 🟧2 | 3   | 4   | 5   | 6   | 7   | 8   |
-"""
+ITINERARY = load_itinerary()
+LOCATIONS = ITINERARY.get("locations", [])
+PLANNING_DOCS = ITINERARY.get("planning_docs", {})
+TRIP_TITLE = ITINERARY.get("trip_title", "Honeymoon Dashboard")
+DATES_SUMMARY = ITINERARY.get("dates_summary", "")
 
-
-import re
+# --- Helpers ---
 
 def load_markdown(relative_path: str, drop_title: bool = False) -> str:
     """Load markdown content and remove back-links to the README."""
@@ -89,27 +40,22 @@ def load_markdown(relative_path: str, drop_title: bool = False) -> str:
         lines = lines[1:]
     return "\n".join(lines).strip()
 
-
 def render_markdown_with_images(content: str) -> None:
     """Render markdown content with proper image handling for Streamlit."""
-    # Split content by image markdown syntax
     pattern = r'!\[(.*?)\]\((.*?)\)'
     parts = re.split(pattern, content)
     
     i = 0
     while i < len(parts):
         if i + 2 < len(parts):
-            # Check if this could be an image pattern by looking ahead
             text_before = parts[i]
             if text_before.strip():
                 st.markdown(text_before)
             
-            # Check if next parts look like alt text and path
-            potential_alt = parts[i + 1] if i + 1 < len(parts) else ""
-            potential_path = parts[i + 2] if i + 2 < len(parts) else ""
+            potential_alt = parts[i + 1]
+            potential_path = parts[i + 2]
             
-            # If the path looks like an image file
-            if potential_path and potential_path.endswith(('.png', '.jpg', '.jpeg', '.gif', '.webp')):
+            if potential_path and potential_path.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.webp')):
                 img_path = BASE_DIR / potential_path
                 if img_path.exists():
                     st.image(str(img_path), caption=potential_alt, use_container_width=True)
@@ -119,114 +65,153 @@ def render_markdown_with_images(content: str) -> None:
             else:
                 i += 1
         else:
-            # Remaining text
             if parts[i].strip():
                 st.markdown(parts[i])
             i += 1
 
-
-def render_location_details(location: dict[str, str]) -> None:
+def render_location_details(location: dict[str, Any]) -> None:
     st.subheader(f"{location['emoji']} {location['name']} · {location['dates']}")
     summary = location.get("summary")
     if summary:
-        st.write(summary)
+        st.info(summary)
     content = load_markdown(location["file"], drop_title=True)
     render_markdown_with_images(content)
-
 
 def render_planning_section(title: str, relative_path: str) -> None:
     st.markdown(f"### {title}")
     st.markdown(load_markdown(relative_path, drop_title=False))
 
+# --- Pages ---
 
 def overview_page() -> None:
-    st.title("France & Basque Country Honeymoon")
-    st.caption("July 19 – August 2, 2026")
+    st.title(TRIP_TITLE)
+    st.caption(DATES_SUMMARY)
 
-    col1, col2, col3 = st.columns(3)
-    col1.metric("Trip Length", "14 days")
-    col2.metric("Destinations", "4 cities")
-    col3.metric("Travel Style", "Trains + Flights")
+    # Metrics
+    metrics = ITINERARY.get("metrics", [])
+    if metrics:
+        cols = st.columns(len(metrics))
+        for col, metric in zip(cols, metrics):
+            col.metric(metric["label"], metric["value"])
 
-    st.markdown("### Timeline Snapshot")
-    st.markdown(CALENDAR_TABLE)
-    st.caption("*Colors show where you're sleeping that night*")
+    st.divider()
 
-    st.markdown("### Segments")
-    for loc in LOCATIONS:
-        if loc['days'] > 0:
-            st.write(f"{loc['emoji']} **{loc['name']}** – {loc['dates']} ({loc['days']} nights)")
-        else:
-            st.write(f"{loc['emoji']} **{loc['name']}** – {loc['dates']}")
+    col1, col2 = st.columns([1, 1.5])
+    
+    with col1:
+        st.markdown("### 📅 Timeline Snapshot")
+        # Generate calendar table dynamically or use from itinerary.json if added
+        # For now, let's keep it simple as a list or a static table if available
+        # I'll use a simplified version for now
+        CALENDAR_TABLE = """| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+|-----|-----|-----|-----|-----|-----|-----|
+|     |     |     | 1   | 2   | 3   | 4   |
+| 5   | 6   | 7   | 8   | 9   | 10  | 11  |
+| 12  | 13  | 14  | 15  | 16  | 17  | 18  |
+| 🟥19 | 🟦20 | 🟪21 | 🟪22 | 🟪23 | 🟨24 | 🟨25 |
+| 🟫26 | 🏰27 | 🟩28 | 🟩29 | 🟩30 | 🟩31 | 🟩1 |
+| 🟧2 | 3   | 4   | 5   | 6   | 7   | 8   |
+"""
+        st.markdown(CALENDAR_TABLE)
+        st.caption("*Colors show where you're sleeping that night*")
 
-    st.markdown(
-        "[View all locations on Google Maps]"
-        "(https://www.google.com/maps/dir/Paris,+France/Bordeaux,+France/Saint-Jean-de-Luz,+France/San+Sebastian,+Spain/Bilbao,+Spain)"
-    )
+    with col2:
+        st.markdown("### 📍 Segments")
+        for loc in LOCATIONS:
+            if loc['days'] > 0:
+                st.write(f"{loc['emoji']} **{loc['name']}** – {loc['dates']} ({loc['days']} nights)")
+            else:
+                st.write(f"{loc['emoji']} **{loc['name']}** – {loc['dates']}")
+        
+        google_maps_link = ITINERARY.get("google_maps_link")
+        if google_maps_link:
+            st.link_button("🗺️ View Route on Google Maps", google_maps_link)
 
-    st.markdown("### Planning Tools")
-    st.markdown(
-        "- [Train Planning](train-planning.md)\n"
-        "- [Packing List](packing-list.md)\n"
-        "- [Flight Planning](flight-planning.md)"
-    )
-
+    st.divider()
+    
+    st.markdown("### 🗂 Quick Access Planning")
+    cols = st.columns(len(PLANNING_DOCS))
+    for col, (title, path) in zip(cols, PLANNING_DOCS.items()):
+        with col:
+            st.markdown(f"**{title}**")
+            st.caption(f"Browse {path}")
 
 def destinations_page() -> None:
     st.title("Destination Details")
+    
     # Filter to actual destinations (not fly out/home)
     destinations = [loc for loc in LOCATIONS if loc["days"] > 0]
-    selected_name = st.selectbox(
-        "Choose a segment to explore",
-        [f"{loc['name']} ({loc['dates']})" for loc in destinations],
-    )
-    selected = next(
-        loc
-        for loc in destinations
-        if loc["name"] in selected_name
-    )
-    render_location_details(selected)
-
-    with st.expander("See all destination notes"):
-        for loc in destinations:
-            render_location_details(loc)
-            st.divider()
-
+    
+    # Use tabs for destinations if there aren't too many, otherwise a selectbox
+    if len(destinations) <= 10:
+        tabs = st.tabs([f"{loc['emoji']} {loc['name']}" for loc in destinations])
+        for tab, loc in zip(tabs, destinations):
+            with tab:
+                render_location_details(loc)
+    else:
+        selected_name = st.selectbox(
+            "Choose a segment to explore",
+            [f"{loc['name']} ({loc['dates']})" for loc in destinations],
+        )
+        selected = next(loc for loc in destinations if loc["name"] in selected_name)
+        render_location_details(selected)
 
 def logistics_page() -> None:
-    st.title("Flights & Train Logistics")
-    flights_tab, trains_tab = st.tabs(["Flights", "Trains"])
-    with flights_tab:
-        render_planning_section("Flight Planning", PLANNING_DOCS["Flight Planning"])
-    with trains_tab:
-        render_planning_section("Train Planning", PLANNING_DOCS["Train Planning"])
-
+    st.title("Flights & Transport Logistics")
+    
+    tab_names = list(PLANNING_DOCS.keys())
+    # Filter logistics specific docs if needed, for now just show them
+    logistics_docs = {k: v for k, v in PLANNING_DOCS.items() if "Packing" not in k}
+    
+    if logistics_docs:
+        tabs = st.tabs(list(logistics_docs.keys()))
+        for tab, (title, path) in zip(tabs, logistics_docs.items()):
+            with tab:
+                render_planning_section(title, path)
+    else:
+        st.write("No logistics docs found.")
 
 def packing_page() -> None:
     st.title("Packing & Prep")
-    render_planning_section("Packing Checklist", PLANNING_DOCS["Packing List"])
-    st.info(
-        "Tip: keep allergy cards accessible during dining, especially in Paris and San Sebastián."
-    )
+    packing_path = PLANNING_DOCS.get("Packing List")
+    if packing_path:
+        render_planning_section("Packing Checklist", packing_path)
+    else:
+        st.warning("Packing List not found in itinerary.json")
+    
+    st.info("Tip: keep allergy cards accessible during dining, especially in Paris and San Sebastián.")
 
+# --- Main ---
 
 def main() -> None:
     st.set_page_config(
-        page_title="Honeymoon Dashboard", page_icon="🇫🇷", layout="wide"
+        page_title=TRIP_TITLE,
+        page_icon="🇫🇷",
+        layout="wide",
+        initial_sidebar_state="expanded"
     )
+
+    # Sidebar Navigation with custom branding
+    st.sidebar.title("✈️ Honeymoon 2026")
+    st.sidebar.divider()
+    
     page = st.sidebar.radio(
-        "Navigate",
-        ("Overview", "Destinations", "Flights & Transport", "Packing & Notes"),
+        "Navigation",
+        ["Overview", "Destinations", "Logistics", "Packing & Prep"],
+        index=0
     )
+    
+    st.sidebar.divider()
+    st.sidebar.info("Dates: July 19 – August 2")
+    
     if page == "Overview":
         overview_page()
     elif page == "Destinations":
         destinations_page()
-    elif page == "Flights & Transport":
+    elif page == "Logistics":
         logistics_page()
-    else:
+    elif page == "Packing & Prep":
         packing_page()
-
 
 if __name__ == "__main__":
     main()

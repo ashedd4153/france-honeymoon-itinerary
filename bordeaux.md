@@ -1,24 +1,30 @@
 # Bordeaux Wine Country (Days 1–2)
 [← Back to Itinerary](README.md)
 
-## 🗓 July 20–21 (Arrival Day!)
-
-France's wine capital – world-class reds, beautiful riverfront architecture, and exceptional dining. **You arrive here directly from CDG via TGV!**
 
 ## 🚆 Getting There (Day 1)
 - **From CDG:** TGV INOUI ~4h direct to Bordeaux Saint-Jean
 - **Target arrival:** ~4:00 PM (perfect for vineyard check-in)
 - **Pro tip:** The TGV station is integrated into CDG Terminal 2
 
-## 🏨 Where to Stay: Vineyard Château (Recommended!)
+## 🏨 Where to Stay: Vineyard vs. City
 
-**The "West Village" of Bordeaux** – artsy, antique shops, wine bars, very local.
+For your first night, you have two distinct options. Since you arrive around 4:00 PM, a vineyard check-in is very doable, but consider the logistics:
 
-- **Neighborhood:** Chartrons (north of city center along the river)
-- **Why:** Former wine merchant district, now hip with galleries, cafés, Sunday market
-- **Alternative:** Saint-Pierre (more central, historic, lively squares)
-- **Accommodation:** Airbnb or small boutique hotel both work
-- **Tips:** Chartrons is slightly quieter; Saint-Pierre is more walkable to everything
+### Option A: The Vineyard Stay (Romantic & Immersive)
+Stay directly at a Château. This is the "honeymoon dream" but requires a bit more coordination for dinner and transport.
+- **Top Picks:**
+    - **Les Sources de Caudalie:** (Martillac) The ultimate luxury/spa experience. ~25 min taxi. **Price:** $$$$ ($500–$900+/night)
+    - **Château Pape Clément:** (Pessac) Historic estate, very close to city. **Price:** $$$ ($450–$700/night)
+    - **Château Hotel Grand Barrail:** (Saint-Émilion) Fairytale castle vibes. **Price:** $$–$$$ ($250–$500/night)
+- **Pros:** Total immersion, stunning views, onsite tastings.
+- **Cons:** Requires Uber/Taxi for everything; limited dining options if the Château restaurant is closed/full.
+
+### Option B: The City Stay (Convenient & Lively)
+Stay in the heart of Bordeaux and visit vineyards the next day.
+- **Neighborhood:** Chartrons (The "West Village" of Bordeaux)
+- **Top Pick:** **Hôtel de Tourny** – elegant boutique hotel. **Price:** $$ ($180–$300/night)
+- **Pros:** Walkable to dozens of restaurants, lively atmosphere, easy "landing" after travel.
 
 ## 🍷 Wine Experiences
 - **Cité du Vin** – interactive wine museum

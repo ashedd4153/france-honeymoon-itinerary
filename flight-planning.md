@@ -2,55 +2,72 @@
 
 [← Back to Itinerary](README.md)
 
+## ✈️ United Airlines Round Trip – Newark ↔ Paris
+
+> **Cheapest Nonstop United Flights (as of Dec 2024)**
+> 
+> **Total: $2,458** ($1,229 per person for 2 passengers)
+> 
+> [📌 View/Book These Flights on Google Flights](https://www.google.com/travel/flights/booking?tfs=CBwQAhpEEgoyMDI2LTA3LTE5Ih4KA0VXUhIKMjAyNi0wNy0xORoDQ0RHKgJVQTICNTQoADICVUFqBwgBEgNFV1JyBwgBEgNDREcaRBIKMjAyNi0wOC0wMiIeCgNDREcSCjIwMjYtMDgtMDIaA0VXUioCVUEyAjU1KAAyAlVBagcIARIDQ0RHcgcIARIDRVdSQAFAAUgBcAGCAQsI____________AZgBAQ&tfu=CmxDalJJU2pSMlMwTlVTRmd3VjBWQlFqZEVkSGRDUnkwdExTMHRMUzB0TFhaMFltTnROVUZCUVVGQlIyeE1VbWRGVDNNNWRtRkJFZ1JWUVRVMUdnc0l5djhPRUFJYUExVlRSRGdjY01yL0RnPT0SAggAIgA)
+
+---
+
 ## July 19: Newark → Paris (Outbound)
 
-- **Route:** Newark (EWR) → Paris (CDG)
-- **Departure:** Sunday evening
-- **Airlines:** Delta, United, Air France (nonstop options available)
-- **Flight time:** ~7 hours
-- **Arrival:** Monday morning Paris time
+| Detail | Info |
+|--------|------|
+| **Route** | Newark (EWR) → Paris (CDG) |
+| **Flight** | **UA 54** (United Airlines) |
+| **Departure** | **9:35 PM** Sunday, July 19 |
+| **Arrival** | 10:55 AM Monday, July 20 (+1 day) |
+| **Duration** | 7h 20m nonstop |
 
-### ✅ Booking Tips
+### ✅ Why This Flight
+- **Perfect timing** – 9:35 PM departure is close to your ideal 9 PM target
+- **Sleep on the plane** – arrive refreshed Monday morning
+- **Nonstop** – no connections, maximum comfort
+
+### Alternative Evening Option
+- **5:40 PM** departure (UA 57) – same price, arrives earlier if you prefer
+
+---
+
+## August 2: Paris → Newark (Return)
+
+| Detail | Info |
+|--------|------|
+| **Route** | Paris (CDG) → Newark (EWR) |
+| **Flight** | **UA 55** (United Airlines) |
+| **Departure** | **1:10 PM** Sunday, August 2 |
+| **Arrival** | 3:20 PM same day |
+| **Duration** | 8h 10m nonstop |
+
+### ✅ Why This Flight
+- **Afternoon departure** – enjoy a leisurely Paris morning
+- **Nonstop** – quick direct flight home
+- **Same-day arrival** – land in Newark mid-afternoon
+
+### Alternative Morning Option
+- **9:45 AM** departure (UA 914) – same price, earlier landing if preferred
+
+---
+
+## Booking Checklist
+
 | Step | Recommendation |
 |------|----------------|
-| 🎯 Airline | Delta preferred; Air France codeshare also earns SkyMiles |
+| 🎯 Airline | **United** – nonstop both ways |
 | ⏱ When to book | 4–5 months in advance (Feb–Mar 2026) |
-| 💡 Alerts | Set fare alerts on Google Flights or Skyscanner |
-| 🧳 Timing | Evening departure = sleep on plane, arrive fresh |
-
----
-
-## August 2: Bilbao → Newark (Return)
-
-- **Route:** Bilbao (BIO) → Newark (EWR)
-- **Departure:** Sunday
-- **Connection:** Usually via Madrid, Amsterdam, or Paris
-- **Total travel time:** ~10–12 hours
-
-### Best Options
-
-| Airline | Route | Notes |
-|---------|-------|-------|
-| **Delta/Air France** | BIO → CDG → EWR | Earns SkyMiles |
-| **Iberia/American** | BIO → MAD → EWR | OneWorld alternative |
-| **KLM** | BIO → AMS → EWR | Good connection times |
-
-### Optional: Bilbao Morning
-- Fly out afternoon/evening to see the **Guggenheim Museum** in the morning
-- The titanium building alone is worth a few hours
-
----
-
-## Getting to Bilbao Airport
-
-- **From San Sebastián:** Bus ~1h 15m (Pesa or FlixBus)
-- **From Rioja (if you do a day trip):** ~1h drive
+| 💡 Alerts | Set fare alerts on Google Flights |
+| 💳 Payment | Consider Chase or Amex travel portal for points |
+| 🧳 Seats | Book early for good seat selection |
 
 ---
 
 ## Summary
 
-| Leg | Date | Route | Duration |
-|-----|------|-------|----------|
-| Outbound | July 19 (Sun) | EWR → CDG | ~7h nonstop |
-| Return | Aug 2 (Sun) | BIO → EWR | ~10-12h (1 stop) |
+| Leg | Date | Flight | Route | Time | Duration |
+|-----|------|--------|-------|------|----------|
+| **Outbound** | Sun, July 19 | UA 54 | EWR → CDG | 9:35 PM → 10:55 AM+1 | 7h 20m |
+| **Return** | Sun, Aug 2 | UA 55 | CDG → EWR | 1:10 PM → 3:20 PM | 8h 10m |
+| | | | **Total Round Trip** | | **$2,458** |

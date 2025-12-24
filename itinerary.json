@@ -1,0 +1,90 @@
+{
+  "trip_title": "France & Basque Country Honeymoon",
+  "dates_summary": "July 19 – August 2, 2026",
+  "start_date": "2026-07-19",
+  "metrics": [
+    {"label": "Trip Length", "value": "14 days"},
+    {"label": "Destinations", "value": "6 stops"},
+    {"label": "Travel Style", "value": "Trains + Flights"}
+  ],
+  "locations": [
+    {
+      "id": "fly_out",
+      "name": "Fly Out",
+      "dates": "July 19",
+      "days": 0,
+      "emoji": "🟥",
+      "summary": "Sunday evening departure from Newark; wake up in France.",
+      "file": "flight-planning.md"
+    },
+    {
+      "id": "bordeaux",
+      "name": "Bordeaux",
+      "dates": "July 20",
+      "days": 1,
+      "emoji": "🟦",
+      "summary": "Wine capital of France – tastings, riverfront strolls, Saint-Émilion.",
+      "file": "bordeaux.md"
+    },
+    {
+      "id": "san_sebastian",
+      "name": "San Sebastián",
+      "dates": "July 21–23",
+      "days": 3,
+      "emoji": "🟪",
+      "summary": "Pintxos crawls, Michelin dining, Basque culture, Old Town charm.",
+      "file": "san-sebastian.md"
+    },
+    {
+      "id": "saint_jean_de_luz",
+      "name": "Saint-Jean-de-Luz",
+      "dates": "July 24–25",
+      "days": 2,
+      "emoji": "🟨",
+      "summary": "Romantic French Basque fishing village – harbor, seafood, tranquility.",
+      "file": "saint-jean-de-luz.md"
+    },
+    {
+      "id": "loire_valley",
+      "name": "Loire Valley",
+      "dates": "July 26",
+      "days": 1,
+      "emoji": "🟫",
+      "summary": "Château country – world-class wines, Renaissance castles, countryside charm.",
+      "file": "loire-valley.md"
+    },
+    {
+      "id": "versailles",
+      "name": "Versailles",
+      "dates": "July 27",
+      "days": 1,
+      "emoji": "🏰",
+      "summary": "Royal grandeur, stunning gardens, and charming town atmosphere.",
+      "file": "versailles.md"
+    },
+    {
+      "id": "paris",
+      "name": "Paris",
+      "dates": "July 28–Aug 1",
+      "days": 5,
+      "emoji": "🟩",
+      "summary": "Art museums, picnics, rooftop drinks, and dairy-conscious dining.",
+      "file": "paris.md"
+    },
+    {
+      "id": "fly_home",
+      "name": "Fly Home",
+      "dates": "August 2",
+      "days": 0,
+      "emoji": "🟧",
+      "summary": "Sunday departure from Paris CDG.",
+      "file": "flight-planning.md"
+    }
+  ],
+  "planning_docs": {
+    "Flight Planning": "flight-planning.md",
+    "Train Planning": "train-planning.md",
+    "Packing List": "packing-list.md"
+  },
+  "google_maps_link": "https://www.google.com/maps/dir/Bordeaux,+France/San+Sebastian,+Spain/Saint-Jean-de-Luz,+France/Tours,+France/Versailles,+France/Paris,+France"
+}
