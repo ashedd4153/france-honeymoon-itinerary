@@ -1,19 +1,14 @@
-# Train Planning
+# Train Planning & "Hassle" Analysis
+*Is it too much travel? Let's look at the reality.*
 
-[← Back to Itinerary](README.md)
+## 🚦 The "Friction" Scale
+*   **Leg 1 (Arrival):** CDG → Bordeaux (2h). **Necessary.** You have to get south anyway.
+*   **Leg 2 (Border):** Bordeaux → San Sebastián (2.5h). **Easy.** Direct high-speed or 1 easy change.
+*   **Leg 3 (The "Fake" Travel Day):** San Sebastián → St-Jean-de-Luz (30 mins). **Zero Hassle.** It's a taxi ride or a commuter train. Don't count this as a "travel day."
+*   **Leg 4 (The Big One):** St-Jean-de-Luz → Loire Valley (4.5h). **Hard.** This is your one long haul.
+*   **Leg 5 & 6 (The Commute):** Loire → Versailles → Paris. **Easy.** Short hops (<1.5h) on standard commuter lines.
 
-## Route Overview
-
-All segments use France's TGV high-speed rail network for long distances.
-
-```
-CDG Airport ──TGV 2h──→ Bordeaux
-Bordeaux ──TGV 2.5h──→ San Sebastián (Hendaye)
-San Sebastián ──30min──→ Saint-Jean-de-Luz
-Saint-Jean-de-Luz ──TGV 4h──→ Loire Valley (Tours)
-Loire Valley ──TGV 1h──→ Versailles (via Montparnasse)
-Versailles ──30min──→ Paris
-```
+**Verdict:** You really only have **1 Long Travel Day** relative to your location (Leg 4). The rest are short hops that feel like day trips.
 
 ---
 
@@ -61,14 +56,15 @@ Versailles ──30min──→ Paris
 
 ---
 
-## Segment 4: Saint-Jean-de-Luz → Loire Valley (Tours)
-**Date: July 26 (Sunday)**
+## Segment 4: Saint-Jean-de-Luz → Loire Valley **(The High-Speed Strategy)**
+**Date: July 25 (Saturday)**
 
 | Field | Details |
 |-------|---------|
-| **Departure** | Saint-Jean-de-Luz |
-| **Arrival** | Tours (or Saint-Pierre-des-Corps) |
-| **Duration** | ~4 hours (TGV via Bordeaux) |
+| **Route** | St-Jean-de-Luz → Bordeaux (transfer) → Saint-Pierre-des-Corps |
+| **Duration** | **~4.5 hours** (e.g. 8:50 AM departure → 1:30 PM arrival) |
+| **Strategy** | **Do NOT book a direct regional train.** Book the TGV connection via Bordeaux. |
+| **Why?** | Saves ~2.5 hours compared to the slow train. Saint-Pierre-des-Corps is the TGV station for Tours. |
 
 ---
 

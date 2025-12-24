@@ -1,6 +1,5 @@
-# Versailles
-
-**1 Night · July 27**
+# Versailles: The Royal Overnight
+**1 Night · July 28–29**
 
 ## Overview
 

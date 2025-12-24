@@ -6,6 +6,47 @@ Arrive Monday morning after the red-eye. Five days of art, food, and romance.
 
 **$600 hotel credit available** with Platinum Card. All include $100 property credit, room upgrade (subject to availability), daily breakfast for 2, and late checkout.
 
+## 🚶 Sightseeing Tours (Maximum Tourist Maps)
+
+### 🏃‍♂️ 1. The "Grand Axis" (Hardy Sightseeing Walk)
+**Route:** Arc de Triomphe → Champs-Élysées → Grand Palais → Tuileries Garden (**Musée de l'Orangerie**) → Palais Royal → Louvre Pyramid (**Musée du Louvre**) → Pont Neuf → Sainte-Chapelle.
+**Distance:** ~6.5 km (The "I want to see everything" walk).
+👉 **[Open Route in Google Maps](https://www.google.com/maps/dir/Arc+de+Triomphe,+Paris/Grand+Palais,+Paris/Jardin+des+Tuileries,+Paris/Palais-Royal,+Paris/Louvre+Pyramid,+Paris/Pont+Neuf,+Paris/Sainte-Chapelle,+Paris)**
+
+### 🥐 2. The "Right Bank Foodie Marathon" (Deb Perelman Edition)
+**Route:** Holybelly (Breakfast) → Du Pain des Idées (Pastry) → Canal Saint-Martin (Vibe) → Chez Omar (Lunch) → Enfants Rouges Market → Breizh Café (Crepes) → Jacques Genin (Treats) → Maison Aleph (Final Sweet).
+**Distance:** ~4.2 km (connecting the 10th, 3rd, and 4th Arrondissements).
+👉 **[Open Route in Google Maps](https://www.google.com/maps/dir/Holybelly+5,+Paris/Du+Pain+des+Id%C3%A9es,+Paris/Canal+Saint-Martin,+Paris/Chez+Omar,+Paris/March%C3%A9+des+Enfants+Rouges,+Paris/Breizh+Caf%C3%A9+Le+Marais,+Paris/Jacques+Genin,+Paris/Maison+Aleph,+Paris)**
+
+### 🗺️ 3. The "Maximum Tourist" Zone Maps (Cover Everything)
+*Use these additional loops to see the rest of the city.*
+
+#### **Zone A: The "Royal Left Bank" (Eiffel to Orsay)**
+**Route:** Trocadéro → Eiffel Tower → Champ de Mars → Invalides (**Army Museum/Napoleon's Tomb**) → Pont Alexandre III → **Musée d'Orsay** (Impressionist Art) → Saint-Germain-des-Prés.
+**Distance:** ~5 km.
+**Note:** Passes near **Musée Rodin** (Varenne stop).
+👉 **[Open Zone A Map](https://www.google.com/maps/dir/Trocad%C3%A9ro,+Paris/Tour+Eiffel,+Paris/Champ+de+Mars,+Paris/Les+Invalides,+Paris/Pont+Alexandre+III,+Paris/Mus%C3%A9e+d'Orsay,+Paris/Saint-Germain-des-Pr%C3%A9s,+Paris)**
+
+#### **Zone B: The "Intellectual Heart" (Latin Quarter Deep Dive)**
+**Route:** Place Saint-Michel (Start) → Cluny Museum (Medieval Art) → The Sorbonne → Panthéon (Mausoleum) → Luxembourg Gardens (The Senate) → **Grande Mosquée de Paris** (Mint Tea).
+**Distance:** ~3 km.
+**Why:** Removes the "Island Overlap" with the Grand Axis. This is pure Left Bank history.
+👉 **[Open Zone B Map](https://www.google.com/maps/dir/Place+Saint-Michel,+Paris/Mus%C3%A9e+de+Cluny+-+Mus%C3%A9e+national+du+Moyen+%C3%82ge,+Paris/Sorbonne,+Paris/H%C3%B4tel+de+Ville,+Paris/Panth%C3%A9on,+Paris/Jardin+du+Luxembourg,+Paris/Grande+Mosqu%C3%A9e+de+Paris,+Paris)**
+
+#### **Zone C: The "Historic East" (Baker's Block to Bastille)**
+**Route:** **G. Detou** (Baking Supplies) → **Centre Pompidou** (Modern Art) → Hôtel de Ville → Rue des Rosiers (Falafel) → Place des Vosges (Victor Hugo House) → Place de la Bastille → **Coulée Verte** (The "High Line" Entrance).
+**Distance:** ~4 km.
+**Note:** Starts in the food district (near **E. Dehillerin**). Close to **Musée Picasso**.
+👉 **[Open Zone C Map](https://www.google.com/maps/dir/G.+Detou,+Paris/Centre+Pompidou,+Paris/H%C3%B4tel+de+Ville,+Paris/Rue+des+Rosiers,+Paris/Place+des+Vosges,+Paris/Place+de+la+Bastille,+Paris/Coul%C3%A9e+Verte+Ren%C3%A9-Dumont,+Paris)**
+
+#### **Zone D: The "Artistic Heights" (Montmartre Mega-Walk)**
+**Route:** **Moulin Rouge** (Start) → Café des Deux Moulins (Amélie) → Place des Abbesses (Wall of Love) → **Take the Funicular** (Use Metro Ticket) OR Walk the Stairs (300 steps) → **Sacré-Cœur Basilica** (The View) → Place du Tertre (Artists).
+**Distance:** ~2 km (Uphill).
+**Why:** The essential romantic village walk.
+👉 **[Open Zone D Map](https://www.google.com/maps/dir/Moulin+Rouge,+Paris/Caf%C3%A9+des+Deux+Moulins,+Paris/Place+des+Abbesses,+Paris/Funiculaire+de+Montmartre+-+Gare+basse,+Paris/Sacr%C3%A9-C%C5%93ur,+Paris/Place+du+Tertre,+Paris)**
+
+---
+
 [📍 View All Hotels on Google Maps](https://www.google.com/maps/dir/La+Fantaisie+Paris/SO+Paris+Hotel/Fauchon+L'Hotel+Paris/Brach+Paris/Sax+Paris+LXR+Hotels+Resorts)
 
 ---
@@ -46,7 +87,34 @@ Arrive Monday morning after the red-eye. Five days of art, food, and romance.
 
 ---
 
-### 4. 🎭 Brach Paris ⭐ BEST DESIGN
+### 4. 🎭 Brach# Paris: The Grand Finale
+**4 Nights · July 29 – August 2**
+
+## 🕰️ Pacing Decision: 4 vs. 5 Nights?
+*User Question: "Is 4 nights more appropriate given the cost and we aren't shoppers?"*
+
+**The Case for 4 Nights (The "Efficient" Finale)**
+*   **The Math:** You arrive from Versailles by **11:00 AM on Monday**. This means Monday is practically a full day.
+    *   **Day 1 (Mon):** Arrive, South Pigalle lunch, Montmartre sunset.
+    *   **Day 2 (Tue):** The Big Sightseeing (Louvre/Tuileries/Seine).
+    *   **Day 3 (Wed):** The Left Bank (St Germain, Luxembourg Gardens).
+    *   **Day 4 (Thu):** Leisure/Vibe day + Final Dinner.
+    *   **Day 5 (Fri):** Fly home.
+*   **Verdict:** **YES.** If you cut shopping, 4 nights is plenty. You save ~$400–$600.
+
+**The Case for 5 Nights (The "Full Experience")**
+*   **Yes, there is a ton to do.** If you stay 5 nights, "Day 5" isn't empty. It is for the "Tier 1" sights you skipped to avoid burnout:
+    *   **Musée d'Orsay:** The Impressionist masterpiece (Van Gogh, Monet). Essential for art lovers.
+    *   **Musée Rodin:** The most beautiful garden museum in Paris.
+    *   **Le Marais Deep Dive:** Shopping and falafel on Rue des Rosiers.
+    *   **Canal Saint-Martin:** The hip, local picnic spot.
+    *   **Day Trip:** Monet's Gardens at Giverny (45 mins away).
+*   **Verdict:** Keep 5 nights if you simply love being in a big city and want to see *everything* without rushing.
+
+## ⚖️ Trade-Off: Day 5 Paris vs. Day 2 Saint-Jean-de-Luz
+*   **Day 5 Paris:** More walking, more museums, more energy. (Cost: $$$)
+*   **Day 2 St-Jean:** A lazy beach day, swimming, grilled seafood lunch. (Cost: $$)
+*   *Honeymoon Advice:* At the end of a 2-week trip, you might prefer the beach rest over another museum.
 **$695/night** ($3,169 total) | TripAdvisor 4.1/5 | 16th arr
 
 
@@ -126,19 +194,138 @@ You're seeing **$500–700** vs. **$1,500–2,000+**. Here is the objective brea
 - Seine riverwalk and sunset picnic
 - Latin Quarter wine bars or rooftop drinks
 
+### 🗼 Eiffel Tower Logistics
+**The Summit (Top)**
+*   **Ticket:** ~€29.40 (Lift). Book months in advance.
+*   **Dining:** Champagne Bar only (standing, €15–€22/glass).
+
+**Restaurants**
+*   **Le Jules Verne (2nd Floor):** 2 Michelin Stars. Private elevator. Jacket required. Lunch ~€180+, Dinner ~€300+. Book 90 days out.
+*   **Madame Brasserie (1st Floor):** Casual/Chic. Lunch ~€60+, Dinner ~€100+.
+
+
+**Pro Tips:**
+*   **Stairs vs. Lift:** 674 steps to 2nd floor. Saves only ~€5 but takes ~30-45 mins. Lift is recommended.
+*   **Timings:** Sunset offers the best views (Daylight -> Golden Hour -> Sparkle).
+
+### 🎨 The Louvre Strategy (Smart Luxury)
+*You noted private tours ($600+) are too pricey. The "Hack" is **Semi-Private** (Max 6 People).*
+
+**The "Skipping the Line" Reality Check:**
+*   **The "Pyramid Line":** 2+ hours (Avoid).
+*   **The "Carrousel" (Mall) Line:** 30 mins (This is the "Public Hack").
+*   **The "Richelieu" (Passage) Line:** 5 mins (This is the **"Freelance/Group"** entrance).
+*   *Note: You can ONLY use the Richelieu line if you have a Guide or a Membership. This is what the extra money buys you.*
+
+**1. The "Closing Time" Tour (Best Value)**
+*   **Vendor:** **Take Walks (Walks of France)**
+*   **Why:** You visit right before closing when crowds thin out. Includes "Skip the Line" (Group Entrance).
+*   **Cost:** ~$100–$125 per person. ($200–$250 total).
+
+**2. The "Semi-Private" Option (Max 6 Pax)**
+*   **Vendor:** **LivTours** or **Viator "Exclusive Semi-Private"**
+*   **Why:** Guaranteed max 6 people (so you + 2 other couples). It feels private but costs half.
+*   **Cost:** ~$150–$180 per person. ($300–$360 total).
+
+**3. The "Deep Dive" (Art Historians)**
+*   **Vendor:** **Context Travel**
+*   **Why:** PhD-level guides, very intellectual/story-focused. Max 6 people.
+*   **Cost:** ~$180–$200 per person.
+
+**💡 Pro Tip: The "Unlimited Time" Hack**
+If you want >3 hours (start guided, end solo):
+1.  Book a **2:00 PM or 2:30 PM** tour on a **Wednesday or Friday**.
+2.  The tour ends around 5:00 PM.
+3.  The museum is open until **9:00 PM** on those days.
+4.  You get ~3 hours guided + **4 hours free** to wander until closing.
+
+**Pro Tip:** If you book these, you *must* book them ~2-3 months out. The "Max 6" slots vanish fast.
+
+### 🎫 What Else Needs a Guide? (The "Is It Worth It?" List)
+*Aside from the Louvre, here is where a paid guide or ticket upgrade makes sense.*
+
+**1. The Catacombs (ACCESS REQUIRED)**
+*   **Verdict:** **Yes, Upgrade.**
+*   **Why:** Public line is famously slow/sold out. Finding "Skip the Line" tickets is a bloodsport. A tour guarantees entry and access to restricted sections (the "Secret Chapel").
+*   **Vendor:** **City Wonders** or **Take Walks** (Small Group).
+
+**2. Versailles (LOGISTICS)**
+*   **Verdict:** **Maybe (for sanity).**
+*   **Why:** It's huge and the train can be confusing. A tour handles the RER train tickets + entrance.
+*   **DIY Alternative:** Take the RER C yourself (~€8) and rent the audio guide. Only book a tour if you hate navigating trains.
+
+**3. Musée d'Orsay (CONTEXT)**
+*   **Verdict:** **No (use an App).**
+*   **Why:** It is much smaller/easier than the Louvre. You won't get lost.
+*   **Recommendation:** Download the **Rick Steves Audio Guide** (Free) and wander the 5th floor (Impressionists) yourself.
+
+**4. Eiffel Tower (SUMMIT)**
+*   **Verdict:** **No (Just buy the ticket).**
+*   **Why:** Tours don't really skip the security line. Just pre-book the **Summit Access** ticket on the official website 60 days out.
+
+**5. Food Tours (Montmartre/Marais)**
+*   **Verdict:** **No (You have my maps!).**
+*   **Why:** Paid food tours are great, but my **"Foodie Marathon"** and **"Montmartre"** maps cover the exact same spots for free. Spend the money on more pastries instead.
+
+
 ## 🍽 Dining (Dairy-Conscious)
 - Septime (modern French)
 - Clamato (seafood, casual)
 - Mokonuts (lunch/brunch)
 - [Use allergy card in French]
 
-### 🍴 Deb Perelman's Picks
-Based on *Smitten Kitchen* recommendations:
-- Brasserie Vaudeville – classic breakfast
-- Chez Omar – couscous and baklava
-- Du Pain des Idées – incredible croissants
-- Breizh Café – salted caramel crêpes
-- Bistro Paul Bert – steak frites
+### 🍴 Deb Perelman's Picks (Smitten Kitchen)
+> [!NOTE]
+> Source: [A Few Trips to Paris](https://smittenkitchen.com/travel/a-few-trips-to-paris/)
+
+**🥐 Bakeries & Breakfast**
+- **Du Pain des Idées:** Incredible croissants (raspberry escargot recommended).
+- **Stohrer:** Oldest bakery, dream croissants, famous for baba au rhum.
+- **Brasserie Vaudeville:** Classic French breakfast.
+- **Leonie Bakery:** Excellent croissants.
+- **Holybelly:** Aussie-style brunch (go early!).
+- **Bo&Mie:** (Implicit in "The French Bastards" vibe, but listed separately in generic lists usually—sticking to article: **The French Bastards** for pastries).
+- **Blé Sucré:** Madeleines and croissants.
+- **Boulangerie Utopie:** Pain au chocolat & lemon tart.
+- **Poilâne:** Punitions (butter cookies).
+- **Maison Landemaine:** Focaccias.
+
+**🍽 Lunch & Dinner**
+- **Kubri:** Lebanese, "favorite meal of the trip" (2024). Don't miss.
+- **Chez Omar:** Classic couscous & baklava, fun atmosphere.
+- **Pink Mamma:** Italian, gorgeous space (top floor), truffle pasta. Book in advance!
+- **Aux Bons Crus:** Classic bistro, escargot, crème brûlée.
+- **21 Martorell Crêperie:** Galettes & crêpes, good for brunch/lunch.
+- **Le Bon Georges:** Bistro classics, steak frites, chocolate mousse.
+- **Poulette:** Classic bistro, rhubarb tart.
+- **Breizh Café:** Salted caramel crêpes (classic).
+- **Ellsworth:** Modern small plates (famous fermented potato bread/fried chicken).
+- **Semilla / Freddy's:** (Often mentioned in her other lists, but sticking to this article's explicit mentions).
+- **Clark’s Hot Dogs:** Walk-up window, excellent hot dogs.
+
+**🍹 Treats & Drinks**
+- **Maison Aleph:** Filo tarts & housemade rochers (ferrero-style).
+- **Marie Celeste:** Cocktails & famous deviled eggs.
+- **Carette:** Hot chocolate (Trocadero).
+- **Combat:** Slushie gin-and-tonics.
+- **Jacques Genin:** Caramels & pâtes de fruits.
+- **Pierre Hermé:** Innovative macarons.
+- **Berthillon:** (Implicit classic, but **Une Glace à Paris** often cited by her in other contexts—sticking to text: **G. Detou** for ingredients).
+
+**🎨 Sights & Activities**
+- **Bateaux Mouches:** Sunset river cruise (classic first-night activity).
+- **Sainte-Chapelle:** Stunning stained glass (book ahead!).
+- **Musée d’Orsay:** Impressionist art (Van Gogh, etc.).
+- **Centre Pompidou:** Modern art (closing 2025 for reno!).
+- **Musée des Arts Forains:** Fairground museum (whimsical).
+- **Coulée Verte:** "High Line" of Paris (elevated park).
+- **Atelier des Lumières:** Immersive art projections.
+
+**🛍 Shopping**
+- **G. Detou:** Baking ingredients (vanilla beans, chocolate).
+- **E. Dehillerin:** Cookware heaven.
+- **La Trésorerie:** Tableware.
+- **City Pharma:** Skincare (classic stop).
 
 ## 🍷 Wine Note
 **Sancerre** is everywhere in Paris – perfect for white wine lovers. Also try Muscadet or Chablis.
