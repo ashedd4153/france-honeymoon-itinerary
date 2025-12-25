@@ -2,6 +2,8 @@
 
 Welcome! This is your master itinerary overview. Click through to explore each destination or planning section.
 
+✅ **Setup Complete:** Local environment configured for push access.
+
 ### 🌍 Master Trip Map (Google Maps)
 **Route:** Paris → Bordeaux → San Sebastián → Saint-Jean-de-Luz → Loire Valley (Amboise) → Versailles → Paris.
 👉 **[Open Full Itinerary Map](https://www.google.com/maps/dir/Paris/Bordeaux/San+Sebasti%C3%A1n/Saint-Jean-de-Luz/Amboise/Versailles/Paris)**
