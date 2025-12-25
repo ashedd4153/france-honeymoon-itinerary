@@ -1,67 +1,50 @@
 {
   "trip_title": "Honeymoon in France 2026",
-  "dates_summary": "July 20 – August 2, 2026",
+  "dates_summary": "July 19 – August 2, 2026",
   "start_date": "2026-07-20",
   "end_date": "2026-08-02",
   "destinations": [
     {
-      "name": "Bordeaux",
-      "emoji": "🍷",
-      "file": "bordeaux.md",
-      "dates": "July 20-21",
+      "name": "Paris",
+      "emoji": "🗼",
+      "file": "paris.md",
+      "dates": "July 20-24",
       "arrival": "2026-07-20",
-      "departure": "2026-07-21",
+      "departure": "2026-07-24",
+      "nights": 4,
+      "days": 4,
+      "summary": "The Grand Arrival",
+      "hotel_recommendation": "South Pigalle Airbnb / Boutique",
+      "activities": [
+        "Louvre",
+        "Eiffel Tower",
+        "Seine Cruise",
+        "Marais Food Tour"
+      ]
+    },
+    {
+      "name": "Versailles",
+      "emoji": "👑",
+      "file": "versailles.md",
+      "dates": "July 24-25",
+      "arrival": "2026-07-24",
+      "departure": "2026-07-25",
       "nights": 1,
       "days": 1,
-      "summary": "Arrival, Miroir d'Eau, City Stay",
-      "hotel_recommendation": "Le Boutique Hotel & Spa",
+      "summary": "Royal Overnight",
+      "hotel_recommendation": "Waldorf Astoria Trianon Palace",
       "activities": [
-        "Miroir d'Eau",
-        "Cité du Vin (Morning of Day 2)"
-      ]
-    },
-    {
-      "name": "San Sebastián",
-      "emoji": "🥘",
-      "file": "san-sebastian.md",
-      "dates": "July 21-24",
-      "arrival": "2026-07-21",
-      "departure": "2026-07-24",
-      "nights": 3,
-      "days": 3,
-      "summary": "Pintxos, Getaria, Horses",
-      "hotel_recommendation": "Hotel Villa Soro (Gros) or Lasala Plaza (Old Town)",
-      "activities": [
-        "Pintxos Tour",
-        "Getaria Day Trip (Elkano)",
-        "Horseback Riding (Peñas de Aya)",
-        "Monte Igueldo Funicular"
-      ]
-    },
-    {
-      "name": "Saint-Jean-de-Luz",
-      "emoji": "🌊",
-      "file": "saint-jean-de-luz.md",
-      "dates": "July 24-26",
-      "arrival": "2026-07-24",
-      "departure": "2026-07-26",
-      "nights": 2,
-      "days": 2,
-      "summary": "Beach Days & Seafood",
-      "hotel_recommendation": "Hotel Parc Victoria",
-      "activities": [
-        "Sunset Dinner",
-        "Beach Walk",
-        "Coastal Hike"
+        "Palace of Versailles",
+        "Gardens"
       ]
     },
     {
       "name": "Loire Valley",
       "emoji": "🏰",
       "file": "loire-valley.md",
-      "dates": "July 26-28",
-      "arrival": "2026-07-26",
-      "departure": "2026-07-28",
+      "dates": "July 25-27",
+      "arrival": "2026-07-25",
+      "departure": "2026-07-27",
       "nights": 2,
       "days": 2,
       "summary": "Castles & Wine",
@@ -73,37 +56,54 @@
       ]
     },
     {
-      "name": "Versailles",
-      "emoji": "👑",
-      "file": "versailles.md",
-      "dates": "July 28-29",
-      "arrival": "2026-07-28",
-      "departure": "2026-07-29",
+      "name": "Bordeaux",
+      "emoji": "🍷",
+      "file": "bordeaux.md",
+      "dates": "July 27-28",
+      "arrival": "2026-07-27",
+      "departure": "2026-07-28",
       "nights": 1,
       "days": 1,
-      "summary": "Royal Overnight",
-      "hotel_recommendation": "Waldorf Astoria Trianon Palace",
+      "summary": "City & Wine Stopover",
+      "hotel_recommendation": "Le Boutique Hotel & Spa",
       "activities": [
-        "Palace of Versailles",
-        "Gardens"
+        "Miroir d'Eau",
+        "Cité du Vin"
       ]
     },
     {
-      "name": "Paris",
-      "emoji": "🗼",
-      "file": "paris.md",
-      "dates": "July 29-Aug 2",
-      "arrival": "2026-07-29",
-      "departure": "2026-08-02",
-      "nights": 4,
-      "days": 4,
-      "summary": "The Grand Finale",
-      "hotel_recommendation": "South Pigalle Airbnb / Boutique",
+      "name": "Saint-Jean-de-Luz",
+      "emoji": "🌊",
+      "file": "saint-jean-de-luz.md",
+      "dates": "July 28-30",
+      "arrival": "2026-07-28",
+      "departure": "2026-07-30",
+      "nights": 2,
+      "days": 2,
+      "summary": "Beach Days & Seafood",
+      "hotel_recommendation": "Hotel Parc Victoria",
       "activities": [
-        "Louvre",
-        "Eiffel Tower",
-        "Seine Cruise",
-        "Marais Food Tour"
+        "Sunset Dinner",
+        "Beach Walk",
+        "Coastal Hike"
+      ]
+    },
+    {
+      "name": "San Sebastián",
+      "emoji": "🥘",
+      "file": "san-sebastian.md",
+      "dates": "July 30-Aug 2",
+      "arrival": "2026-07-30",
+      "departure": "2026-08-02",
+      "nights": 3,
+      "days": 3,
+      "summary": "Pintxos Grand Finale",
+      "hotel_recommendation": "Hotel Villa Soro (Gros) or Lasala Plaza (Old Town)",
+      "activities": [
+        "Pintxos Tour",
+        "Getaria Day Trip (Elkano)",
+        "Horseback Riding (Peñas de Aya)",
+        "Monte Igueldo Funicular"
       ]
     }
   ],
@@ -113,5 +113,20 @@
     "Train Planning": "train-planning.md",
     "Packing List": "packing-list.md",
     "Flight Planning": "flight-planning.md"
-  }
+  },
+  "metrics": [
+    {
+      "label": "Destinations",
+      "value": "6 Cities"
+    },
+    {
+      "label": "Duration",
+      "value": "14 Days"
+    },
+    {
+      "label": "Departure",
+      "value": "From Bilbao"
+    }
+  ],
+  "google_maps_link": "https://www.google.com/maps/dir/Paris/Versailles/Amboise+Val+de+Loire/Bordeaux/Saint-Jean-de-Luz/Donostia-San+Sebastian/Bilbao+Airport"
 }

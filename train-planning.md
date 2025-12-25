@@ -1,99 +1,106 @@
 # Train Planning & "Hassle" Analysis
-*Is it too much travel? Let's look at the reality.*
+*The new North-to-South route flow: Paris → Basque Country.*
 
 ## 🚦 The "Friction" Scale
-*   **Leg 1 (Arrival):** CDG → Bordeaux (2h). **Necessary.** You have to get south anyway.
-*   **Leg 2 (Border):** Bordeaux → San Sebastián (2.5h). **Easy.** Direct high-speed or 1 easy change.
-*   **Leg 3 (The "Fake" Travel Day):** San Sebastián → St-Jean-de-Luz (30 mins). **Zero Hassle.** It's a taxi ride or a commuter train. Don't count this as a "travel day."
-*   **Leg 4 (The Big One):** St-Jean-de-Luz → Loire Valley (4.5h). **Hard.** This is your one long haul.
-*   **Leg 5 & 6 (The Commute):** Loire → Versailles → Paris. **Easy.** Short hops (<1.5h) on standard commuter lines.
+*   **Leg 1 (Prologue):** Paris → Versailles (<1h). **Easy.** Simple commuter train (RER C or Line L).
+*   **Leg 2 (Royal to Rural):** Versailles → Loire Valley (2-3h). **Moderate.** Requires navigating from Versailles to Massy TGV or back into Montparnasse.
+*   **Leg 3 (The Wine Run):** Loire Valley → Bordeaux (2h). **Easy.** Direct TGV from Saint-Pierre-des-Corps exists and is fast.
+*   **Leg 4 (Coastal Dash):** Bordeaux → Saint-Jean-de-Luz (2h). **Easy.** Direct TGV.
+*   **Leg 5 (Border Crossing):** Saint-Jean-de-Luz → San Sebastián (45m). **Zero Hassle.** Taxi or Euskotren commuter.
+*   **Leg 6 (Departure):** San Sebastián → Bilbao Airport (1h 15m). **Easy.** Direct bus (Pesa) or private transfer.
 
-**Verdict:** You really only have **1 Long Travel Day** relative to your location (Leg 4). The rest are short hops that feel like day trips.
+**Verdict:** The new flow is excellent. You are moving in one logical direction without any massive 5+ hour travel days.
 
 ---
 
 ## 🎫 SNCF Ticket Booking
 
 > [!IMPORTANT]
-> **Tickets for July 2026 travel will go on sale around March 2026.** SNCF typically releases summer tickets ~4 months ahead. Set a reminder for early March to book when prices are lowest.
+> **Tickets for July 2026 travel will go on sale around March 2026.** Set a reminder!
 
 | Info | Details |
 |------|---------|
 | 📅 Booking opens | ~March 2026 for July travel |
 | 🌐 Book at | [SNCF Connect](https://www.sncf-connect.com/en-en/) |
-| 💡 Tip | "Prem's" fares are cheapest but non-refundable |
 
 ---
 
-## Segment 1: CDG Airport → Bordeaux
-**Date: July 20 (Monday)**
-
-| Field | Details |
-|-------|---------|
-| **Departure** | Aéroport CDG 2 TGV |
-| **Arrival** | Bordeaux Saint-Jean |
-| **Duration** | ~2h (Direct TGV) |
-| **Buffer** | Target ~1:00 PM departure for 10:55 AM landing |
-
----
-
-## Segment 2: Bordeaux → San Sebastián
-**Date: July 21 (Tuesday)**
-
-| Field | Details |
-|-------|---------|
-| **Route** | Bordeaux → Hendaye (then Euskotren/Taxi to San Sebastián) |
-| **Duration** | ~2.5h (TGV to Hendaye) + 30m transfer |
-
----
-
-## Segment 3: San Sebastián → Saint-Jean-de-Luz
+## Segment 1: Paris → Versailles
 **Date: July 24 (Friday)**
 
 | Field | Details |
 |-------|---------|
-| **Option** | Euskotren (~45 min) or Taxi (~20 min) |
+| **Route** | Paris (Saint-Lazare or Invalides) → Versailles Rive Droite or Rive Gauche |
+| **Duration** | 30–45 mins |
+| **Type** | Commuter Train (Transilien Line L or RER C) |
+| **Note** | No advance booking needed. Just buy a ticket at the station. |
 
 ---
 
-## Segment 4: Saint-Jean-de-Luz → Loire Valley **(The High-Speed Strategy)**
+## Segment 2: Versailles → Loire Valley (Amboise/Tours)
 **Date: July 25 (Saturday)**
 
 | Field | Details |
 |-------|---------|
-| **Route** | St-Jean-de-Luz → Bordeaux (transfer) → Saint-Pierre-des-Corps |
-| **Duration** | **~4.5 hours** (e.g. 8:50 AM departure → 1:30 PM arrival) |
-| **Strategy** | **Do NOT book a direct regional train.** Book the TGV connection via Bordeaux. |
-| **Why?** | Saves ~2.5 hours compared to the slow train. Saint-Pierre-des-Corps is the TGV station for Tours. |
+| **Option A (Direct-ish)** | Taxi/Uber to **Massy TGV** station (25 min drive), then TGV to **Saint-Pierre-des-Corps**. |
+| **Option B (Backtrack)** | RER back to **Paris Montparnasse**, then TGV to **Saint-Pierre-des-Corps** or **Amboise**. |
+| **Recommendation** | **Option A**. Massy TGV avoids dragging bags through central Paris again. |
+| **Duration** | ~1h train + transfer time. |
 
 ---
 
-## Segment 5: Loire Valley → Versailles
+## Segment 3: Loire Valley → Bordeaux
 **Date: July 27 (Monday)**
 
 | Field | Details |
 |-------|---------|
-| **Departure** | Tours Centre / St-Pierre-des-Corps |
-| **Arrival** | Versailles Chantiers |
-| **Connection** | TGV to Paris Montparnasse, then same-station transfer to Line N |
-| **Duration** | ~1.5 hours |
+| **Route** | Saint-Pierre-des-Corps → Bordeaux Saint-Jean |
+| **Duration** | ~1h 40m - 2h |
+| **Type** | Direct TGV |
+| **Note** | Saint-Pierre-des-Corps is the TGV hub for the Loire. It's a short shuttle/taxi from Amboise or Tours centre. |
 
 ---
 
-## Segment 6: Versailles → Paris
+## Segment 4: Bordeaux → Saint-Jean-de-Luz
 **Date: July 28 (Tuesday)**
 
 | Field | Details |
 |-------|---------|
-| **Options** | RER C, Transilien Line N (to Montparnasse), or Line L |
-| **Duration** | 30–45 minutes |
+| **Route** | Bordeaux Saint-Jean → Saint-Jean-de-Luz - Ciboure |
+| **Duration** | ~2h |
+| **Type** | Direct TGV |
+| **Vibe** | Relaxing ride through the Landes forest. |
+
+---
+
+## Segment 5: Saint-Jean-de-Luz → San Sebastián
+**Date: July 30 (Thursday)**
+
+| Field | Details |
+|-------|---------|
+| **Route** | Saint-Jean-de-Luz → Hendaye (Border) → San Sebastián |
+| **Option** | **Private Transfer / Taxi** is best here (30-40 mins, ~€50–80). |
+| **Train Option** | Train to Hendaye, walk across station, take Euskotren "Topo" to San Sebastián (Amara). (More luggage friction). |
+
+---
+
+## Segment 6: San Sebastián → Bilbao Airport (BIO)
+**Date: August 2 (Sunday)**
+
+| Field | Details |
+|-------|---------|
+| **Route** | San Sebastián Bus Station (Atotxa) → Bilbao Airport (BIO) |
+| **Provider** | **Pesa** (Lurraldebus) DO0505 line |
+| **Frequency** | Every 30 mins / 1 hour. |
+| **Duration** | ~1h 15m |
+| **Comfort** | Very comfortable coaches, dedicated luggage hold. |
+| **Alternative** | Private Transfer (~€150-180). |
 
 ---
 
 ## Booking Tips
-
-- **Prem's Fares**: Book as soon as sales open (March) for best prices.
-- **Seat Selection**: Top deck on TGV Duplex is usually worth it for the view.
+- **Prem's Fares**: Book TGV legs (2, 3, 4) early (March).
+- **First Class**: Often only €5-10 more expensive when booked early.
 - **App**: Store all tickets in the **SNCF Connect** app.
 
 [← Back to Itinerary](README.md)

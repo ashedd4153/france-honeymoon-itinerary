@@ -1,10 +1,11 @@
-
 Spain's culinary capital – pintxos crawls, Michelin stars, beautiful bay, and Basque culture.
 
+**3 Nights · July 30 – August 2** (Thursday–Sunday)
+[← Back to Itinerary](README.md)
+
 ## 🚆 Getting There
-- **From Bordeaux:** TGV/TER train ~2.5h
-- **From Saint-Jean-de-Luz:** Bus or Euskotren ~30 min
-- Easy border crossing
+- **From Saint-Jean-de-Luz:** Short taxi (25 min) or Euskotren "Topo" (40 min)
+- **Border:** You cross the river Bidasoa; usually seamless.
 
 ## 🏨 Where to Stay: Old Town vs. Gros
 *The classic dilemma: Be in the mix (Old Town) or be where the surfers hang (Gros).*

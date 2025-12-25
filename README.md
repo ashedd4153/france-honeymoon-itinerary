@@ -5,8 +5,8 @@ Welcome! This is your master itinerary overview. Click through to explore each d
 ✅ **Setup Complete:** Local environment configured for push access.
 
 ### 🌍 Master Trip Map (Google Maps)
-**Route:** Paris → Bordeaux → San Sebastián → Saint-Jean-de-Luz → Loire Valley (Amboise) → Versailles → Paris.
-👉 **[Open Full Itinerary Map](https://www.google.com/maps/dir/Paris/Bordeaux/San+Sebasti%C3%A1n/Saint-Jean-de-Luz/Amboise/Versailles/Paris)**
+**Route:** Paris (Start) → Versailles → Loire Valley (Amboise) → Bordeaux → Saint-Jean-de-Luz → San Sebastián (End) → Bilbao Airport.
+👉 **[Open New Route Map](https://www.google.com/maps/dir/Paris/Versailles/Amboise/Bordeaux/Saint-Jean-de-Luz/Donostia-San+Sebastian/Bilbao+Airport)**
 
 
 
@@ -20,8 +20,8 @@ Welcome! This is your master itinerary overview. Click through to explore each d
 ## ⚖️ Pacing Reality Check
 *Is this too much travel?*
 It involves **5 moves**, which is active for a honeymoon, but structurally sound because of the **"Anchors."**
-*   **The Anchors:** You have a solid block of **3 Nights** (San Sebastián) and **5 Nights** (Paris). This is where you relax.
-*   **The Connectors:** The 1-night stops (Bordeaux, St-Jean, Versailles) are strategic buffers to break up long travel days.
+*   **The Anchors:** You have a solid block of **4 Nights** (Paris) at the start and **3 Nights** (San Sebastián) at the end.
+*   **The Connectors:** The stops in between (Versailles, Loire, Bordeaux, St-Jean) create a perfect North-to-South flow.
 *   **Verdict:** This is a "Grand Tour" style honeymoon. It is perfect if you want variety (Food, Beach, Castles, City). It is **not** a "flop on the beach" honeymoon.
 
 ## 🕵️ Did You Miss Anything? (The "FOMO" Check)

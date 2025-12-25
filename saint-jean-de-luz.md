@@ -1,7 +1,7 @@
 # 🌊 Saint-Jean-de-Luz
 [← Back to Itinerary](README.md)
 
-## 🗓 July 24–26
+## 🗓 July 28–30
 
 ## 🇫🇷 Choosing Your Coastal Base (Days 5-7)
 *You asked: "Is this the right place?"*
@@ -15,7 +15,7 @@
 ### Sample 2-Day "Relaxed" Itinerary
 *   **Day 1 (Arrival):** Beach sunset and seafood dinner at *Le Kaïku*.
 *   **Day 2 (Activity):** Morning: Take the train up **La Rhune** for coffee & views. Afternoon: Flat walk to **Fort Socoa** or just spa time.
-*   **Day 3 (Depart):** Early train to Loire Valley.
+*   **Day 3 (Depart):** Short transfer (taxi/train) to San Sebastián.
 
 ### Option B: Biarritz (The Alternative)
 *   **Best for:** Surfers, glitz, nightlife, grand sightseeing.

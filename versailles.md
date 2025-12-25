@@ -1,5 +1,5 @@
 # Versailles: The Royal Overnight
-**1 Night · July 28–29**
+**1 Night · July 24–25**
 
 ## Overview
 
@@ -22,8 +22,8 @@ Versailles offers excellent value compared to central Paris:
 
 ## Getting There & Away
 
-- **From Loire Valley (Tours)**: TGV to Paris Montparnasse, then Transilien Line N directly to Versailles Chantiers (~1.5 hours total).
-- **To Paris**: RER C, Transilien Line N (to Montparnasse), or Line L (to Saint-Lazare) take 30–45 minutes.
+- **From Paris**: RER C, Transilien Line N (from Montparnasse), or Line L. (~30-45 mins).
+- **To Loire Valley**: Taxi/Uber to **Massy TGV** station (25 mins), then TGV directly to Saint-Pierre-des-Corps (1 hr). Or RER back to Montparnasse.
 
 ## Pro Tips
 

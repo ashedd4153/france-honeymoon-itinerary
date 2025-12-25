@@ -1,24 +1,20 @@
-# Bordeaux Wine Country (Days 1–2)
+**1 Night · July 27–28** (Monday–Tuesday)
 [← Back to Itinerary](README.md)
 
+## 🚆 Getting There (Day 8)
+- **From Loire Valley:** TGV from Saint-Pierre-des-Corps directly to Bordeaux Saint-Jean (~1.5–2 hours).
+- **Target arrival:** Noon or Early Afternoon (Maximize your time!).
 
-## 🚆 Getting There (Day 1)
-- **From CDG:** TGV INOUI ~4h direct to Bordeaux Saint-Jean
-- **Target arrival:** ~4:00 PM
-- **Pro tip:** The TGV station is integrated into CDG Terminal 2
-
-## 🛑 Why Keep This Stop? (Don't Cut It)
+## 🛑 Why Keep This Stop?
 *You asked: "Should we just skip Bordeaux and add the night elsewhere?"*
 **NO.** Here is why you need this night:
-1.  **The "Jetlag Buffer":** You land at CDG at 10:55 AM.
-    *   Trip to Bordeaux: ~2-3 hours (Arrive 4pm). Manageable.
-    *   Trip all the way to San Sebastián: ~6+ hours (Arrive 8pm+). **Exhausting.**
-2.  **The "Welcome to France" Moment:** Instead of spending your entire first day on a train, you get to have a spectacular French dinner and scenic walk in one of Europe's most beautiful cities.
-3.  **It works:** It splits the long journey South into two easy pieces.
+1.  **Pacing:** It breaks up the journey from the Loire to the Coast.
+2.  **The City Vibe:** Bordeaux is stunning (often called "Petit Paris"). A night here offers a great change of pace from the castles of the Loire before hitting the beaches.
+3.  **Food & Wine:** It's the wine capital. You need at least one dinner here.
 
 ## 🏨 Where to Stay: Vineyard vs. City
 
-For your first night, you have two distinct options. Since you arrive around 4:00 PM, a vineyard check-in is very doable, but consider the logistics:
+For your night here, you have two distinct options. Since you are arriving from the Loire, checking into a city hotel is easiest:
 
 ### Option A: The Vineyard Stay (Romantic & Immersive)
 Stay directly at a Château. This is the "honeymoon dream" but requires a bit more coordination for dinner and transport.
@@ -91,15 +87,15 @@ Is it cheaper to stay in the city? **Yes, significantly.**
 **Option 1: The "City & Chill" (Recommended)**
 *   **Day 1 Evening:** Walk the **Water Mirror** (Miroir d'Eau), dinner at *Le Petit Commerce*.
 *   **Day 2 Morning:** Visit **La Cité du Vin** (world-class wine museum, open 10am, includes a glass of wine with view) OR explore the **Chartrons** antique district.
-*   **Day 2 Afternoon:** Train to San Sebastián.
+*   **Day 2 Afternoon:** Train to **Saint-Jean-de-Luz** (Direct TGV, ~2 hours).
 *   *Verdict: Stress-free, great food, you still drink wine.*
 
 **Option 2: The "Winery Sprint"**
 *   **Day 1 Evening:** Dinner in Bordeaux.
 *   **Day 2 Morning (8:30 AM - 1:30 PM):** Book a **Half-Day Saint-Émilion Tour**.
     *   Many operators (like Bordeaux Wine Trails) do a 9:00 AM–1:30 PM morning loop. You visit 1-2 châteaux + the village.
-*   **Day 2 Afternoon:** Grab a sandwich and sprint to the 2:20 PM train to San Sebastián.
-*   *Verdict: Doable, but rushy. You must book the afternoon train, not morning.*
+*   **Day 2 Afternoon:** Grab a sandwich and take the afternoon train to **Saint-Jean-de-Luz**.
+*   *Verdict: Doable, but rushy. You must book the afternoon train.*
 
 ## 🚶 City Walking Tour (Google Maps)
 **Route:** Grand Théâtre (Start) → Place de la Bourse (Water Mirror) → Porte Cailhau (Medieval Gate) → La Cité du Vin (Finish via Tram B or long walk along river).

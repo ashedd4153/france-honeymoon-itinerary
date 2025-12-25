@@ -1,9 +1,9 @@
 # Loire Valley
-**2 Nights · July 26–28**
+**2 Nights · July 25–27**
 
 ## Overview
 
-The Loire Valley is France's garden, famous for its stunning Renaissance châteaux and exceptional wines. A perfect overnight stop between the Basque coast and Paris.
+The Loire Valley is France's garden, famous for its stunning Renaissance châteaux and exceptional wines. A perfect overnight stop between Versailles and Bordeaux.
 
 ## 🏰 Pacing Decision: 1 Night vs. 2 Nights?
 *You asked to let the activities drive the time. Here is the trade-off:*
@@ -17,7 +17,7 @@ The Loire Valley is France's garden, famous for its stunning Renaissance châtea
 *   **Missing:** Wine tasting, Chambord, biking, relaxing.
 
 ### The "Savour" (2 Nights) - *Recommended*
-*   **Time:** Arrive Sunday afternoon, Depart Tuesday morning.
+*   **Time:** Arrive Saturday afternoon, Depart Monday morning.
 *   **What you get:**
     *   **Day 1:** Arrival & Sunset dinner in Amboise.
     *   **Day 2 (The Big Day):**
@@ -54,8 +54,8 @@ Consider staying near **Tours** or **Amboise** for easy TGV access:
 
 ## Getting There & Away
 
-- **From Saint-Jean-de-Luz**: TGV via Bordeaux to Tours (~4-5 hours)
-- **To Paris**: TGV from Tours to Paris Montparnasse (~1 hour)
+- **From Versailles**: TGV from Massy or Montparnasse (~1-1.5 hours)
+- **To Bordeaux**: Direct TGV from Saint-Pierre-des-Corps (~1 hr 45 min)
 
 ## Accommodation Ideas
 

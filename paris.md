@@ -88,18 +88,18 @@ Arrive Monday morning after the red-eye. Five days of art, food, and romance.
 ---
 
 ### 4. 🎭 Brach# Paris: The Grand Finale
-**4 Nights · July 29 – August 2**
+**4 Nights · July 20 – July 24**
 
 ## 🕰️ Pacing Decision: 4 vs. 5 Nights?
 *User Question: "Is 4 nights more appropriate given the cost and we aren't shoppers?"*
 
 **The Case for 4 Nights (The "Efficient" Finale)**
-*   **The Math:** You arrive from Versailles by **11:00 AM on Monday**. This means Monday is practically a full day.
+*   **The Math:** You arrive from Newark by **11:00 AM on Monday**. This means Monday is practically a full day.
     *   **Day 1 (Mon):** Arrive, South Pigalle lunch, Montmartre sunset.
     *   **Day 2 (Tue):** The Big Sightseeing (Louvre/Tuileries/Seine).
     *   **Day 3 (Wed):** The Left Bank (St Germain, Luxembourg Gardens).
     *   **Day 4 (Thu):** Leisure/Vibe day + Final Dinner.
-    *   **Day 5 (Fri):** Fly home.
+    *   **Day 5 (Fri):** Morning explore, train to Versailles.
 *   **Verdict:** **YES.** If you cut shopping, 4 nights is plenty. You save ~$400–$600.
 
 **The Case for 5 Nights (The "Full Experience")**
@@ -186,7 +186,7 @@ You're seeing **$500–700** vs. **$1,500–2,000+**. Here is the objective brea
 | 2 | July 21 (Tue) | Full day – Rodin Museum, Seine walk, evening drinks |
 | 3 | July 22 (Wed) | Full day – Montmartre, Sacré-Cœur, neighborhood lunch |
 | 4 | July 23 (Thu) | Full day – museum or day trip, special dinner |
-| 5 | July 24 (Fri) | Morning explore, afternoon TGV to Bordeaux |
+| 5 | July 24 (Fri) | Morning explore, train to Versailles |
 
 ## 🗺 Activities
 - Rodin Museum and garden picnic
@@ -279,53 +279,63 @@ If you want >3 hours (start guided, end solo):
 > Source: [A Few Trips to Paris](https://smittenkitchen.com/travel/a-few-trips-to-paris/)
 
 **🥐 Bakeries & Breakfast**
-- **Du Pain des Idées:** Incredible croissants (raspberry escargot recommended).
-- **Stohrer:** Oldest bakery, dream croissants, famous for baba au rhum.
-- **Brasserie Vaudeville:** Classic French breakfast.
-- **Leonie Bakery:** Excellent croissants.
-- **Holybelly:** Aussie-style brunch (go early!).
-- **Bo&Mie:** (Implicit in "The French Bastards" vibe, but listed separately in generic lists usually—sticking to article: **The French Bastards** for pastries).
-- **Blé Sucré:** Madeleines and croissants.
-- **Boulangerie Utopie:** Pain au chocolat & lemon tart.
-- **Poilâne:** Punitions (butter cookies).
-- **Maison Landemaine:** Focaccias.
+👉 **[🗺️ View Local Map of All Bakeries](https://www.google.com/maps/dir/Du+Pain+des+Id%C3%A9es,+Paris/Stohrer,+Paris/Brasserie+Vaudeville,+Paris/Leonie+Bakery,+Paris/Holybelly+5,+Paris/The+French+Bastards,+Rue+Oberkampf,+Paris/Bl%C3%A9+Sucr%C3%A9,+Paris/Boulangerie+Utopie,+Paris/Poil%C3%A2ne,+Rue+du+Cherche-Midi,+Paris/Maison+Landemaine,+Rue+des+Martyrs,+Paris)**
+
+- **[Du Pain des Idées](https://dupaindesidees.com/):** Incredible croissants (raspberry escargot recommended).
+- **[Stohrer](https://stohrer.fr/):** Oldest bakery, dream croissants, famous for baba au rhum.
+- **[Brasserie Vaudeville](https://vaudevilleparis.com/):** Classic French breakfast.
+- **[Leonie Bakery](https://www.leoniebakery.com/):** Excellent croissants.
+- **[Holybelly](https://holybellycafe.com/):** Aussie-style brunch (go early!).
+- **[The French Bastards](https://thefrenchbastards.fr/):** (Implicit in "The French Bastards" vibe, but listed separately in generic lists usually—sticking to article: **The French Bastards** for pastries).
+- **[Blé Sucré](https://blesucre.fr/):** Madeleines and croissants.
+- **[Boulangerie Utopie](https://boulangerieutopie.com/):** Pain au chocolat & lemon tart.
+- **[Poilâne](https://www.poilane.com/):** Punitions (butter cookies).
+- **[Maison Landemaine](https://www.maisonlandemaine.com/):** Focaccias.
 
 **🍽 Lunch & Dinner**
-- **Kubri:** Lebanese, "favorite meal of the trip" (2024). Don't miss.
-- **Chez Omar:** Classic couscous & baklava, fun atmosphere.
-- **Pink Mamma:** Italian, gorgeous space (top floor), truffle pasta. Book in advance!
-- **Aux Bons Crus:** Classic bistro, escargot, crème brûlée.
-- **21 Martorell Crêperie:** Galettes & crêpes, good for brunch/lunch.
-- **Le Bon Georges:** Bistro classics, steak frites, chocolate mousse.
-- **Poulette:** Classic bistro, rhubarb tart.
-- **Breizh Café:** Salted caramel crêpes (classic).
-- **Ellsworth:** Modern small plates (famous fermented potato bread/fried chicken).
-- **Semilla / Freddy's:** (Often mentioned in her other lists, but sticking to this article's explicit mentions).
-- **Clark’s Hot Dogs:** Walk-up window, excellent hot dogs.
+👉 **[🗺️ View Local Map of All Lunch & Dinner Spots](https://www.google.com/maps/dir/Kubri,+Paris/Chez+Omar,+Paris/Pink+Mamma,+Paris/Aux+Bons+Crus,+Paris/21+Martorell,+Rue+de+Douai,+Paris/Le+Bon+Georges,+Paris/Poulette,+Rue+Etienne+Marcel,+Paris/Breizh+Cafe,+Rue+Vieille+du+Temple,+Paris/Ellsworth,+Paris/Semilla,+Paris/Clarks+Hot+Dog,+Paris)**
+
+- **[Kubri](https://www.kubri-restaurant.com/):** Lebanese, "favorite meal of the trip" (2024). Don't miss.
+- **[Chez Omar](https://www.google.com/maps/search/?api=1&query=Chez+Omar+Paris):** Classic couscous & baklava, fun atmosphere.
+- **[Pink Mamma](https://www.bigmammagroup.com/en/trattorias/pink-mamma):** Italian, gorgeous space (top floor), truffle pasta. Book in advance!
+- **[Aux Bons Crus](https://www.auxbonscrus.fr/):** Classic bistro, escargot, crème brûlée.
+- **[21 Martorell Crêperie](https://www.instagram.com/21martorell/):** Galettes & crêpes, good for brunch/lunch.
+- **[Le Bon Georges](https://lebongeorges.paris/):** Bistro classics, steak frites, chocolate mousse.
+- **[Poulette](https://www.pouletterestaurant.com/):** Classic bistro, rhubarb tart.
+- **[Breizh Café](https://www.breizhcafe.com/):** Salted caramel crêpes (classic).
+- **[Ellsworth](https://www.ellsworthparis.com/):** Modern small plates (famous fermented potato bread/fried chicken).
+- **[Semilla](https://www.semillaparis.com/) / [Freddy's](https://www.google.com/maps/search/?api=1&query=Freddys+Paris):** (Often mentioned in her other lists, but sticking to this article's explicit mentions).
+- **[Clark’s Hot Dogs](https://clarkhotdog.fr/):** Walk-up window, excellent hot dogs.
 
 **🍹 Treats & Drinks**
-- **Maison Aleph:** Filo tarts & housemade rochers (ferrero-style).
-- **Marie Celeste:** Cocktails & famous deviled eggs.
-- **Carette:** Hot chocolate (Trocadero).
-- **Combat:** Slushie gin-and-tonics.
-- **Jacques Genin:** Caramels & pâtes de fruits.
-- **Pierre Hermé:** Innovative macarons.
-- **Berthillon:** (Implicit classic, but **Une Glace à Paris** often cited by her in other contexts—sticking to text: **G. Detou** for ingredients).
+👉 **[🗺️ View Local Map of All Treats](https://www.google.com/maps/dir/Maison+Aleph,+Paris/Le+Mary+Celeste,+Paris/Carette,+Place+du+Trocadero,+Paris/Combat,+Rue+de+Belleville,+Paris/Jacques+Genin,+Rue+de+Turenne,+Paris/Pierre+Herme,+Rue+Bonaparte,+Paris)**
+
+- **[Maison Aleph](https://www.maisonaleph.com/):** Filo tarts & housemade rochers (ferrero-style).
+- **[Le Mary Celeste](https://www.lemaryceleste.com/):** Cocktails & famous deviled eggs.
+- **[Carette](https://carette-paris.fr/):** Hot chocolate (Trocadero).
+- **[Combat](https://www.instagram.com/combat.belleville/):** Slushie gin-and-tonics.
+- **[Jacques Genin](https://jacquesgenin.fr/):** Caramels & pâtes de fruits.
+- **[Pierre Hermé](https://www.pierreherme.com/):** Innovative macarons.
+- **[Berthillon](https://www.berthillon.fr/):** (Implicit classic, but **Une Glace à Paris** often cited by her in other contexts—sticking to text: **G. Detou** for ingredients).
 
 **🎨 Sights & Activities**
-- **Bateaux Mouches:** Sunset river cruise (classic first-night activity).
-- **Sainte-Chapelle:** Stunning stained glass (book ahead!).
-- **Musée d’Orsay:** Impressionist art (Van Gogh, etc.).
-- **Centre Pompidou:** Modern art (closing 2025 for reno!).
-- **Musée des Arts Forains:** Fairground museum (whimsical).
-- **Coulée Verte:** "High Line" of Paris (elevated park).
-- **Atelier des Lumières:** Immersive art projections.
+👉 **[🗺️ View Local Map of Sights](https://www.google.com/maps/dir/Bateaux+Mouches,+Paris/Sainte-Chapelle,+Paris/Musee+d'Orsay,+Paris/Centre+Pompidou,+Paris/Musee+des+Arts+Forains,+Paris/Coulee+Verte+Rene-Dumont,+Paris/Atelier+des+Lumieres,+Paris)**
+
+- **[Bateaux Mouches](https://www.bateaux-mouches.fr/):** Sunset river cruise (classic first-night activity).
+- **[Sainte-Chapelle](https://www.sainte-chapelle.fr/):** Stunning stained glass (book ahead!).
+- **[Musée d’Orsay](https://www.musee-orsay.fr/):** Impressionist art (Van Gogh, etc.).
+- **[Centre Pompidou](https://www.centrepompidou.fr/):** Modern art (closing 2025 for reno!).
+- **[Musée des Arts Forains](https://arts-forains.com/):** Fairground museum (whimsical).
+- **[Coulée Verte](https://www.paris.fr/equipements/coulee-verte-rene-dumont-1772):** "High Line" of Paris (elevated park).
+- **[Atelier des Lumières](https://www.atelier-lumieres.com/):** Immersive art projections.
 
 **🛍 Shopping**
-- **G. Detou:** Baking ingredients (vanilla beans, chocolate).
-- **E. Dehillerin:** Cookware heaven.
-- **La Trésorerie:** Tableware.
-- **City Pharma:** Skincare (classic stop).
+👉 **[🗺️ View Local Map of Shops](https://www.google.com/maps/dir/G.+Detou,+Paris/E.+Dehillerin,+Paris/La+Tresorerie,+Paris/Citypharma,+Paris)**
+
+- **[G. Detou](https://www.google.com/maps/search/?api=1&query=G+Detou+Paris):** Baking ingredients (vanilla beans, chocolate).
+- **[E. Dehillerin](https://www.e-dehillerin.fr/):** Cookware heaven.
+- **[La Trésorerie](https://latresorerie.fr/):** Tableware.
+- **[City Pharma](https://pharmacie-citypharma.fr/):** Skincare (classic stop).
 
 ## 🍷 Wine Note
 **Sancerre** is everywhere in Paris – perfect for white wine lovers. Also try Muscadet or Chablis.
