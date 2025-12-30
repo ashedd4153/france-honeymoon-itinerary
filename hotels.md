@@ -3,12 +3,12 @@
 
 [← Back to Itinerary](README.md)
 
-This list reflects the "Smart Luxury" tier: boutique hotels with character, good locations, and premium service, avoiding the ultra-expensive "Palace" premiums.
+This list prioritizes boutique hotels with premium service and central locations.
 
 | Leg | Dates | Nights | Location | Recommended Hotel | Est. Price/Night | Total Est. |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **1** | July 20-24 | 4 | **Paris** | **Le Ballu** (9th Arr) | ~$300 | ~$1,200 |
-| **2** | July 24-25 | 1 | **Versailles** | **Hôtel du Jeu de Paume** | ~$250 | ~$250 |
+| **2** | July 24-25 | 1 | **Versailles** | **Le Louis Hotel** (Booked) | $374 | $748 |
 | **3** | July 25-27 | 2 | **Loire Valley** | **Au Charme Rabelaisien** | ~$280 | ~$560 |
 | **4** | July 27-28 | 1 | **Bordeaux** | **Le Boutique Hotel & Spa** | ~$350 | ~$350 |
 | **5** | July 28-30 | 2 | **Saint-Jean-de-Luz** | **Hôtel Parc Victoria** | ~$400 | ~$800 |
@@ -24,35 +24,36 @@ This list reflects the "Smart Luxury" tier: boutique hotels with character, good
 ## 📝 Hotel Details
 
 ### 🍷 Bordeaux: Le Boutique Hotel & Spa
-*   **Why:** Perfect location in the city center (Golden Triangle), lovely courtyard, small pool. A great "soft landing" for 1 night.
-*   **Vibe:** Sophisticated, quiet, walkable.
+*   **Description:** City center location (Golden Triangle). Courtyard and small pool.
+*   **Style:** Quiet.
 
-### 🥘 San Sebastián: The "Splurge" vs. "Value" Choice
-*Note: July is peak resort season in San Sebastian, often making it pricier than Paris due to limited supply.*
+### 🥘 San Sebastián: Hotel Options
+*Note: July is peak season.*
 
-**1. The Splurge: Villa Favorita (~$450+)**
-*   **Why:** "Timeless Elegance." The last original 19th-century villa on La Concha. Unbeatable beachfront location.
-*   **Vibe:** Intimate, sophisticated, adult.
+**1. Villa Favorita (Primary Option)**
+*   **Description:** 19th-century villa on La Concha. Beachfront.
+*   **Style:** Adult-oriented, sophisticated.
 
-**2. The Smart Value: Hotel Villa Katalina (~$250)**
-*   **Why:** "Refined & Fresh." A newer boutique hotel (opened 2021) next to the Cathedral.
-*   **Vibe:** Historic exterior, warm modern interior. High-end feel without the beachfront markup.
-*   **Alternative:** **Lasala Plaza**. Reliable modern luxury on the harbor (~$300).
+**2. Hotel Villa Katalina (Value Option)**
+*   **Description:** Boutique hotel (opened 2021) next to Cathedral.
+*   **Style:** Historic exterior, modern interior.
+*   **Alternative:** **Lasala Plaza** (Harbor view).
 
 ### 🌊 Saint-Jean-de-Luz: Hôtel Parc Victoria
-*   **Why:** The most romantic garden hotel in town. It feels like a 19th-century estate.
-*   **Vibe:** Old-school Basque charm, 5-star service, pool.
+*   **Description:** 5-star hotel with garden and pool.
+*   **Style:** 19th-century architecture.
 
 ### 🏰 Loire Valley: Au Charme Rabelaisien
-*   **Why:** The "Le Ballu" of Amboise. 18th-century charm meets heated pool & spa serenity.
-*   **Vibe:** Intimate, relaxing, and perfectly central.
-*   **Alternative:** **Le Clos d'Amboise** (for a larger "chateau garden" feel).
+*   **Description:** 18th-century property with heated pool & spa. Central location.
+*   **Style:** Intimate.
+*   **Alternative:** **Le Clos d'Amboise** (Larger property with garden).
 
-### 👑 Versailles: Hôtel du Jeu de Paume
-*   **Why:** Historic, charming boutique in a former royal tennis court. Steps from the Palace.
-*   **Vibe:** Cozy, authentic, romantic. Far more character than the big chains.
+### 👑 Versailles: Le Louis Hotel Versailles Château (Booked)
+*   **Location:** Opposite Palace gates, adjacent to RER station.
+*   **Type:** MGallery collection (Accor). Modern 4-star.
+*   **Details:** 2 bis Avenue de Paris. Confirmed July 24-26.
 
 ### 🗼 Paris: Le Ballu
-*   **Why:** The "La Fantaisie Experience" for half the price. Pool, spa, garden, and highly stylized decor.
-*   **Vibe:** "Syldavian" fantasy. It feels like a Wes Anderson movie set. Intimate and romantic.
-*   **Alternative:** **Hôtel Fabric** (11th Arr) - For pure foodie logistics and space.
+*   **Description:** Boutique hotel with pool, spa, and garden.
+*   **Style:** Stylized decor.
+*   **Alternative:** **Hôtel Fabric** (11th Arr) - Spacious rooms in former factory.

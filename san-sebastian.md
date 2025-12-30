@@ -125,4 +125,4 @@ Getaria is a tiny, stunning medieval fishing village about 30 mins west of San S
 
 ## ✈️ Departure
 - **Bilbao Airport (BIO):** ~1h by bus or car
-- Optional: Stop in Bilbao to see the Guggenheim before flying
+- Optional: Stop in Bilbao for a final pintxos lunch at **Plaza Nueva** before flying (skip the museum).

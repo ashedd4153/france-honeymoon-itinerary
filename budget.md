@@ -89,6 +89,55 @@ This budget assumes a **"Smart Luxury"** approach: excellent boutique hotels, a 
 
 ---
 
+## 5. 💳 Points & Rewards Strategy
+*Potential to subsidize flights or hotels via a new Amex Platinum Card.*
+
+*   **Target Welcome Offer:** 125k – 175k Membership Rewards Points.
+    *   *Note:* Standard offer is 80k. Use an "Incognito" browser window to find higher targeted offers.
+*   **Spend Requirement:** ~$8,000 in first 6 months.
+    *   *Trip Relevance:* Booking your hotels and flights will easily meet this natural spend.
+*   **Potential Return:**
+    *   Transfer to **Air France/KLM (Flying Blue)** or **Iberia** for Business Class redemption.
+    *   **Value:** Conservative estimate ~$1,500+ in travel value.
+*   **Trip Perks:**
+    *   **NO Foreign Transaction Fees:** Save ~3% on every euro spent abroad.
+    *   **FHR Benefits:** Book Paris/Bordeaux hotels via Amex FHR for free breakfast, $100 credits, and guaranteed 4 PM checkout.
+    *   **Lounge Access:** Centurion Lounges at airports.
+
+### 🧮 "Is it Worth It?" ROI Calculation (2025 Terms)
+*Does the card pay for itself in Year 1?*
+
+| Item | Cost / Loss | Value / Gain | Notes |
+| :--- | :--- | :--- | :--- |
+| **Annual Fee** | **-$895** | | *Increased from previous years.* |
+| **Opportunity Cost** | **-$40** | | *Lost value of using this card (1x-5x pts) vs a flat 2% cash back card on $8k spend.* |
+| **Hotel Credit** | | **+$600** | **Huge Upgrade:** Now $300 semi-annually. Use $300 for prepay booking before June, $300 for July/Aug booking. |
+| **Resy Credit** | | **+$400** | $100/quarter at Resy restaurants. |
+| **Uber Cash** | | **+$200** | $15/mo for rides or Eats. |
+| **Lululemon Credit** | | **+$300** | $75/quarter (New benefit). |
+| **Welcome Bonus** | | **+$2,625** | Est. value of 175k points @ 1.5 cents/point. |
+| **NET TOTAL** | **-$935** | **+$4,125** | **PROFIT: ~$3,190** |
+
+> **Verdict:** The fee is higher ($895), but the credits are significantly better. The **Hotel ($600) + Resy ($400)** credits alone cover the fee ($1,000 value vs $895 cost). The 175k points are essentially free money on top.
+
+### ⏱️ Strategic Timing: Why Apply NOW (Dec/Jan)?
+*Counter-intuitive: Don't wait for the trip.*
+
+1.  **The "Double Dip" ($600 Total):** The Hotel Credit is semi-annual (Jan-Jun & Jul-Dec).
+    *   **Apply Now:** Get $300 for Jan-Jun (use for Hotel A) **AND** $300 for Jul-Dec (use for Hotel B).
+    *   **Wait until May/June:** You might miss the first window or be rushed to use it.
+    *   **Wait until July:** You LOSE the first $300 entirely.
+2.  **Dual Card Strategy (United + Amex):**
+    *   **United Explorer:** Smart move for the flights. You get free checked bags and priority boarding (saving ~$160).
+    *   **Amex Platinum:** Use for Hotels (FHR) + Dining + Daily Life.
+3.  **The New Spend Math (Hitting the $8k):**
+    *   *Challenge:* Without the ~$3k flight cost, the Amex $8k target is harder.
+    *   **Target:** ~$1,333 / month for 6 months.
+    *   *Plan:* Use Amex for all hotel deposits (~$2k) + groceries/dining.
+    *   *Warning:* If you can't hit $1,333/mo naturally, postpone the Amex or prepay other bills.
+
+---
+
 ## 💡 "Savings" Levers
 *How to reduce costs if needed:*
 1.  **Cut Paris Hotel:** Stay in a standard 4-star ($350/night) instead of FHR ($600). *Savings: ~$1,000.*
