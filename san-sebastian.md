@@ -1,48 +1,48 @@
 Spain's culinary capital – pintxos crawls, Michelin stars, beautiful bay, and Basque culture.
 
 **3 Nights · July 30 – August 2** (Thursday–Sunday)
-[← Back to Itinerary](README.md)
+**Jump to:** [Day 11 (Arrival)](#day-11-july-30-thu-welcome-to-spain) | [Day 12 (Views)](#day-12-july-31-fri-concha-funicular) | [Day 13 (Getaria)](#day-13-aug-1-sat-the-grilled-fish-pilgrimage) | [Day 14 (Depart)](#day-14-aug-2-sun-flying-home)
 
-## 🚆 Getting There
-- **From Saint-Jean-de-Luz:** Short taxi (25 min) or Euskotren "Topo" (40 min)
-- **Border:** You cross the river Bidasoa; usually seamless.
+## 📅 Detailed Daily Itinerary
 
-## 🏨 Where to Stay: Old Town vs. Gros
-*The classic dilemma: Be in the mix (Old Town) or be where the surfers hang (Gros).*
+### [Day 11: July 30 (Thu) - Welcome to Spain](#day-11-july-30-thu-welcome-to-spain)
+*Pintxos 101*
+*   **12:00 PM:** Arrive from France. Check into **[Villa Favorita](#option-a-beachfront-elegance)** (Splurge) or **[Villa Katalina](#option-b-city-value)** (Smart Value).
+*   **1:30 PM:** **Lunch:** Casual tapas near hotel (Gros neighborhood). Try **Bar Zabaleta**.
+*   **5:00 PM:** Nap / Refresh.
+*   **7:30 PM:** **[Pintxos Crawl 1](#pintxos-crawl-1):** Head to **Old Town**.
+    *   Start at **Goiz Argi** (Prawn skewers).
+    *   Hit **Ganbara** (Mushrooms).
+    *   Finish with **La Viña** Cheesecake (takeout line).
+[↑ Back to Overview](#san-sebastian)
 
-## 🥘 Pacing Decision: 2 Nights vs. 3 Nights?
-*Is 3 nights too much? Not if you like food.*
+### [Day 12: July 31 (Fri) - Concha & Funicular](#day-12-july-31-fri-concha-funicular)
+*The Best Beach in Europe*
+*   **10:00 AM:** Walk the entire **La Concha** promenade (scenic).
+*   **12:00 PM:** **Monte Igueldo Funicular:** Ride up for the iconic view. Vintage amusement park.
+*   **2:00 PM:** Late Lunch: Sit-down meal at **Rekondo** (Famous wine cellar) or **Narru**.
+*   **6:00 PM:** **[Bar Nestor](#must-visit-pintxos-bars--crowd-warnings):** Try to get on the list for the 8pm Tortilla or just order Tomato Salad & Steak.
+[↑ Back to Overview](#san-sebastian)
 
-### The "Taste" (2 Nights)
-*   **What you get:**
-    *   **Day 1:** Arrival & Pintxos Crawl in Old Town.
-    *   **Day 2:** La Concha beach walk + Monte Igueldo Funicular + Reserved Dinner (or more Pintxos).
-*   **The Risk:** "Pintxos Fatigue." Be prepared to eat standing up two nights in a row. It can be intense.
+### [Day 13: Aug 1 (Sat) - The Grilled Fish Pilgrimage](#day-13-aug-1-sat-the-grilled-fish-pilgrimage)
+*Getaria Day Trip*
+*   **11:00 AM:** Bus (~30 min) to **Getaria**.
+*   **12:00 PM:** Visit **[Balenciaga Museum](#fish-spotlight-the-getaria-day-trip)**.
+*   **1:30 PM:** **The Meal of the Trip:** Lunch at **[Elkano](#fish-spotlight-the-getaria-day-trip)** (or Kaia Kaipe). Grilled Turbot.
+*   **4:00 PM:** Walk it off in the vineyards or harbor. Bus back.
+*   **9:00 PM:** Final Pintxos "Best Of" round in Gros (Bar Bergara).
+[↑ Back to Overview](#san-sebastian)
 
-### The "Feast" (3 Nights) - *Recommended*
-*   **What you get:**
-    *   **Day 1 & 2:** Same as above, but slower. Sit-down lunch on a terrace.
-    *   **Day 3 (The Game Changer):** **GETARIA Day Trip.**
-        *   Take the bus (~30 min) to this tiny grilled-fish village.
-        *   Lunch at **Elkano** or **Kaia Kaipe** (world-famous grilled turbot).
-        *   Visit the Balenciaga Museum.
-*   **Verdict:** 3 Nights allows you to leave the city and see the "real" Basque coast (Getaria), plus eat at a calmer pace.
-
-### Option B: Gros Neighborhood (The "Cool" Side)
-*Across the river, younger vibe, near Zurriola surf beach. Best of all: it is calmer.*
-*   **Is it far?** NO. It is a **5–10 minute walk** across the bridge to the Old Town. You are right there, but you can sleep without noise.
-*   **Hotel Villa Soro:** (Boutique/Quiet) A renovated historic villa with a garden. Very chic and peaceful. Slightly further (15 min walk to Old Town), but true luxury. **Price:** $$–$$$ (~€200–€350)
-*   **Hotel Arrizul Congress:** (Modern/Sleek) 4-star luxury. Reviews are outstanding (9.0+). Only a **5-minute walk** to the Old Town. **Price:** $$ (~€200–€300)
-*   **Okako Hotel:** (Boutique/Artistic) quirky, high-design boutique hotel. Very highly rated. **Price:** $$ (~€150–€250)
-
-### 💰 Smart Value Picks (Clean, Modern, Cheaper)
-*   **Welcome Gros Hotel:** Modern, simple, very clean. 5 mins to Old Town. often **half the price** of Arrizul.
-*   **Hotel Trueba:** Tiny but stylish rooms. Very friendly. Great location near the beach.
+### [Day 14: Aug 2 (Sun) - Flying Home](#day-14-aug-2-sun-flying-home)
+*Adios!*
+*   **8:00 AM:** Taxi to **Bilbao Airport (BIO)** (~1 hour).
+*   **Flight:** Depart for Newark.
+[↑ Back to Overview](#san-sebastian)
 
 ## 🍢 Food & Drink
 *   **Pintxos Tours:** A great way to start if you're intimidated by the crowds.
-    *   **Mimo San Sebastián:** The premium option. ~€175/person (includes impeccable wines).
-    *   **Devour Tours:** Excellent storytelling and highly rated. ~$140/person.
+    *   **[Mimo San Sebastián](https://mimo.eus/en):** The premium option. ~€175/person (includes impeccable wines).
+    *   **[Devour Tours](https://devourtours.com/destinations/spain/san-sebastian/):** Excellent storytelling and highly rated. ~$140/person.
     *   **DIY Strategy:** Check **Smitten Kitchen's (Deb Perelman)** "Favorites from Spain" for a curated list of spots if you prefer to go it alone.
 
 ### 🗺️ 1. The Ultimate Pintxos Crawl Map (Old Town Only)
@@ -64,19 +64,19 @@ Expect "shoulder-to-shoulder" crowds, "fighting" to order at the bar, and lines 
     *   **Divide & Conquer:** If you are a group of 2, one person finds a spot to stand, the other fights to the bar to order.
 
 ### Must-Visit Pintxos Bars & Crowd Warnings
-*   **Bar Nestor:** 
+*   **[Bar Nestor](https://www.instagram.com/barnestor1980/):** 
     *   *The Famous Tortilla:* They only make **two** per day (1 PM and 8 PM). You **must** go 1 hour early (12 PM or 7 PM) to put your name on a list to get a slice. It is a "cult" experience.
     *   *The Steak (Txuleta):* You can order this anytime, but bring patience. Tiny spot, always packed.
-*   **Ganbara:** 
+*   **[Ganbara](https://www.ganbarajatetxea.com/en/):** 
     *   *The Dish:* Wild mushrooms (setas) with egg yolk.
     *   *Crowd Factor:* **High.** Often a line out the door just to get in.
-*   **Borda Berri:** 
+*   **[Borda Berri](https://virtualtxoko.com/project/borda-berri/):** 
     *   *The Vibe:* "Chock-a-block." No food on the bar (order from menu).
     *   *The Dish:* Veal cheeks (Carrillera) and Idiazabal Risotto.
 *   **La Cuchara de San Telmo:** 
     *   *Crowd Factor:* Nearly always a queue.
     *   *The Dish:* Suckling pig or Foie Gras.
-*   **La Viña:** 
+*   **[La Viña](https://lavinarestaurante.com/):** 
     *   *The Cheesecake:* There is a specific line just for cheesecake takeout. It moves fast, but it is long.
 
 ### 🧘 The "No-Stress" Alternatives (Locals' Favorites)
@@ -87,9 +87,9 @@ Expect "shoulder-to-shoulder" crowds, "fighting" to order at the bar, and lines 
 *   **Gure Txoko (Gros):** Famous for their fried potatoes and friendly vibe.
 
 ## 🍽 Michelin Options (Book Ahead)
-- **Arzak** – 3 stars, legendary Basque cuisine
-- **Mugaritz** – 2 stars, avant-garde
-- **Akelarre** – 3 stars, views + tasting menu
+- **[Arzak](https://www.arzak.es/en/)** – 3 stars, legendary Basque cuisine
+- **[Mugaritz](https://www.mugaritz.com/)** – 2 stars, avant-garde
+- **[Akelarre](https://www.akelarre.net/en/)** – 3 stars, views + tasting menu
 
 ## 🗺 Activities
 ## 🐟 Spotlight: The Getaria Day Trip
@@ -97,17 +97,17 @@ Expect "shoulder-to-shoulder" crowds, "fighting" to order at the bar, and lines 
 
 Getaria is a tiny, stunning medieval fishing village about 30 mins west of San Sebastián. It is famous for three things:
 1.  **Grilled Fish:** It is the world capital of grilling whole fish over charcoal. You will smell the smoke the moment you arrive.
-    *   **The Legend:** **Elkano** (1 Michelin Star). Anthony Bourdain called it his "final meal." You must book months in advance. **Cost:** Expect ~€100–€150/person (Turbot is priced by kg, usually ~€90–€100 to share).
-    *   **The Alternative:** **Kaia Kaipe**. Right next door, amazing cellar, slightly easier to book. **Cost:** ~€70–€100/person.
-2.  **Fashion:** It is the birthplace of **Cristóbal Balenciaga**. There is a world-class museum dedicated to him at the top of the village.
+    *   **The Legend:** **[Elkano](https://www.restauranteelkano.com/)** (1 Michelin Star). Anthony Bourdain called it his "final meal." You must book months in advance. **Cost:** Expect ~€100–€150/person (Turbot is priced by kg, usually ~€90–€100 to share).
+    *   **The Alternative:** **[Kaia Kaipe](http://www.kaia-kaipe.com/)**. Right next door, amazing cellar, slightly easier to book. **Cost:** ~€70–€100/person.
+2.  **Fashion:** It is the birthplace of **Cristóbal Balenciaga**. There is a world-class **[Balenciaga Museum](https://www.cristobalbalenciagamuseoa.com/en/)** dedicated to him at the top of the village.
 3.  **Txakoli Wine:** The village is surrounded by vineyards sloping into the sea. You can walk from the town center right into a vineyard (e.g., **Gaintza**) for a tasting.
 
 *Logistics: Take the **Lurraldebus** (UK09/UK10/UK11) from San Sebastián center. It's cheap, easy, and scenic.*
 
 ### 🏨 Staying in Getaria?
 *   **Yes, people do.** It is incredibly romantic and quiet at night.
-*   **Top Pick:** **Hotel Iturregi**. A stunning luxury boutique hotel set amongst the vineyards *above* the town. Very premium, very peaceful.
-*   **Old Town Pick:** **Saiaz Getaria Hotela**. Built into the 15th-century city walls, overlooking the sea.
+*   **Top Pick:** **[Hotel Iturregi](https://www.hoteliturregi.com/en/)**. A stunning luxury boutique hotel set amongst the vineyards *above* the town. Very premium, very peaceful.
+*   **Old Town Pick:** **[Saiaz Getaria Hotela](https://www.saiazgetaria.com/en/)**. Built into the 15th-century city walls, overlooking the sea.
 *   *Note:* If you stay here, you are committed to a quiet village evening (no nightlife).
 
 ## 🐴 Horseback Riding (For Experienced Riders)

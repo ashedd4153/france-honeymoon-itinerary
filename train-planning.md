@@ -37,15 +37,16 @@
 
 ---
 
-## Segment 2: Versailles → Loire Valley (Amboise/Tours)
+## Segment 2: Versailles → Loire Valley (Amboise)
 **Date: July 25 (Saturday)**
 
-| Field | Details |
-|-------|---------|
-| **Option A (Direct-ish)** | Taxi/Uber to **Massy TGV** station (25 min drive), then TGV to **Saint-Pierre-des-Corps**. |
-| **Option B (Backtrack)** | RER back to **Paris Montparnasse**, then TGV to **Saint-Pierre-des-Corps** or **Amboise**. |
-| **Recommendation** | **Option A**. Massy TGV avoids dragging bags through central Paris again. |
-| **Duration** | ~1h train + transfer time. |
+| Field | Option A (Smart Link) | Option B (City Backtrack) |
+|-------|-----------------------|---------------------------|
+| **Route** | **Taxi (25m)** to Massy TGV → TGV to St-Pierre-des-Corps (1h) → Shuttle Train to Amboise (15m) | **RER C (40m)** to Paris Montparnasse → TGV to St-Pierre-des-Corps (1h) → Shuttle Train to Amboise (15m) |
+| **Total Time** | ~2.5 hrs | ~3 hrs |
+| **Pros** | Skips Paris traffic/crowds. | More train frequency if you miss a connection. |
+| **Cons** | Massy is a boring suburban station. | Dragging bags through Montparnasse. |
+| **Verdict** | **Option A**. Book a TGV from *Massy TGV* to *Amboise*. |
 
 ---
 
@@ -54,10 +55,11 @@
 
 | Field | Details |
 |-------|---------|
-| **Route** | Saint-Pierre-des-Corps → Bordeaux Saint-Jean |
-| **Duration** | ~1h 40m - 2h |
-| **Type** | Direct TGV |
-| **Note** | Saint-Pierre-des-Corps is the TGV hub for the Loire. It's a short shuttle/taxi from Amboise or Tours centre. |
+| **Route** | **Amboise** → St-Pierre-des-Corps (Shuttle) → **Bordeaux St-Jean** (TGV) |
+| **The Transfer** | The first leg is a 15-min regional train. St-Pierre is a small, easy station to navigate. |
+| **Duration** | Total ~2.5 Hours |
+| **Frequency** | ~9 trains per day. |
+| **Comfort** | The TGV leg (1h 45m) is direct and fast. |
 
 ---
 

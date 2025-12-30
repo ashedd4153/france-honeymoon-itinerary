@@ -5,6 +5,14 @@
   "end_date": "2026-08-02",
   "destinations": [
     {
+      "name": "Newark",
+      "emoji": "✈️",
+      "days": 0,
+      "dates": "July 19",
+      "file": "newark.md",
+      "summary": "Departure: UA 54 to Paris"
+    },
+    {
       "name": "Paris",
       "emoji": "🗼",
       "file": "paris.md",
@@ -14,7 +22,7 @@
       "nights": 4,
       "days": 4,
       "summary": "The Grand Arrival",
-      "hotel_recommendation": "South Pigalle Airbnb / Boutique",
+      "hotel_recommendation": "Le Ballu (Smart Luxury)",
       "activities": [
         "Louvre",
         "Eiffel Tower",
@@ -26,49 +34,35 @@
       "name": "Versailles",
       "emoji": "👑",
       "file": "versailles.md",
-      "dates": "July 24-25",
+      "dates": "July 24-26",
       "arrival": "2026-07-24",
-      "departure": "2026-07-25",
-      "nights": 1,
-      "days": 1,
-      "summary": "Royal Overnight",
+      "departure": "2026-07-26",
+      "nights": 2,
+      "days": 2,
+      "summary": "The Alpha Weekend",
       "hotel_recommendation": "Waldorf Astoria Trianon Palace",
       "activities": [
         "Palace of Versailles",
-        "Gardens"
+        "Gardens",
+        "Equestrian Show (Sat)",
+        "Market (Sun)"
       ]
     },
     {
       "name": "Loire Valley",
       "emoji": "🏰",
       "file": "loire-valley.md",
-      "dates": "July 25-27",
-      "arrival": "2026-07-25",
-      "departure": "2026-07-27",
+      "dates": "July 26-28",
+      "arrival": "2026-07-26",
+      "departure": "2026-07-28",
       "nights": 2,
       "days": 2,
-      "summary": "Castles & Wine",
-      "hotel_recommendation": "Hotel near Amboise",
+      "summary": "Car-Free Castle Hopping",
+      "hotel_recommendation": "Au Charme Rabelaisien (Smart Luxury)",
       "activities": [
-        "Château de Chenonceau",
-        "Chambord",
-        "Wine Tasting (Vouvray/Chinon)"
-      ]
-    },
-    {
-      "name": "Bordeaux",
-      "emoji": "🍷",
-      "file": "bordeaux.md",
-      "dates": "July 27-28",
-      "arrival": "2026-07-27",
-      "departure": "2026-07-28",
-      "nights": 1,
-      "days": 1,
-      "summary": "City & Wine Stopover",
-      "hotel_recommendation": "Le Boutique Hotel & Spa",
-      "activities": [
-        "Miroir d'Eau",
-        "Cité du Vin"
+        "Château de Chenonceau (E-Bike)",
+        "Château de Nitray (Vineyard Dinner)",
+        "Château Royal d'Amboise"
       ]
     },
     {
@@ -98,7 +92,7 @@
       "nights": 3,
       "days": 3,
       "summary": "Pintxos Grand Finale",
-      "hotel_recommendation": "Hotel Villa Soro (Gros) or Lasala Plaza (Old Town)",
+      "hotel_recommendation": "Villa Favorita (Splurge) or Villa Katalina (Smart Value)",
       "activities": [
         "Pintxos Tour",
         "Getaria Day Trip (Elkano)",
@@ -114,10 +108,14 @@
     "Packing List": "packing-list.md",
     "Flight Planning": "flight-planning.md"
   },
+  "archived_docs": {
+    "Paris Hotel Analysis": "archive-paris-hotels.md",
+    "Bordeaux (Removed)": "bordeaux.md"
+  },
   "metrics": [
     {
       "label": "Destinations",
-      "value": "6 Cities"
+      "value": "5 Cities"
     },
     {
       "label": "Duration",

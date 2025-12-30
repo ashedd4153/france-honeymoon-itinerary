@@ -19,9 +19,21 @@ This budget assumes a **"Smart Luxury"** approach: excellent boutique hotels, a 
 
 *(Does not include Transatlantic Flights)*
 
+## 1. 🌡 Destination Cost Intensity
+*Your trip has a "High-Low-High" rhythm. San Sebastian and Paris are two of the most expensive cities in Europe during summer.*
+
+| Destination | Cost Tier | Why? |
+| :--- | :--- | :--- |
+| **Paris** | 🔴 **Ultra High** | Global capital, Olympic afterglow, high demand. |
+| **Versailles** | 🟠 **High** | Premium hotel pricing near Palace. |
+| **Loire Valley** | 🟢 **Value** | Rural region, excellent wine/food value. |
+| **Bordeaux** | 🟡 **Moderate** | Big city but significantly cheaper than Paris. |
+| **Saint-Jean-de-Luz**| 🟠 **High** | Exclusive resort town, limited supply. |
+| **San Sebastián** | 🔴 **Ultra High** | #1 culinary destination, limited supply, peak beach season. |
+
 ---
 
-## 1. 🏨 Accommodation Breakdown
+## 2. 🏨 Accommodation Breakdown
 *See [Hotel Master List](hotels.md) for details.*
 
 *   **Bordeaux (1 Night):** $350

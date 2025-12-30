@@ -9,3 +9,57 @@
   $ xcode-select --install
   $ pip install watchdog
             
+2025-12-25 22:18:42.711 Script compilation error
+Traceback (most recent call last):
+  File "/Users/ashedd/.pyenv/versions/3.11.9/lib/python3.11/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 573, in _run_script
+    code = self._script_cache.get_bytecode(script_path)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ashedd/.pyenv/versions/3.11.9/lib/python3.11/site-packages/streamlit/runtime/scriptrunner/script_cache.py", line 72, in get_bytecode
+    filebody = magic.add_magic(filebody, script_path)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ashedd/.pyenv/versions/3.11.9/lib/python3.11/site-packages/streamlit/runtime/scriptrunner/magic.py", line 45, in add_magic
+    tree = ast.parse(code, script_path, "exec")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ashedd/.pyenv/versions/3.11.9/lib/python3.11/ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ashedd/Documents/france-honeymoon-itinerary/trip_dashboard.py", line 221
+    index=0,
+IndentationError: unexpected indent
+2025-12-25 22:18:42.716 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-12-25 22:18:45.930 Script compilation error
+Traceback (most recent call last):
+  File "/Users/ashedd/.pyenv/versions/3.11.9/lib/python3.11/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 573, in _run_script
+    code = self._script_cache.get_bytecode(script_path)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ashedd/.pyenv/versions/3.11.9/lib/python3.11/site-packages/streamlit/runtime/scriptrunner/script_cache.py", line 72, in get_bytecode
+    filebody = magic.add_magic(filebody, script_path)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ashedd/.pyenv/versions/3.11.9/lib/python3.11/site-packages/streamlit/runtime/scriptrunner/magic.py", line 45, in add_magic
+    tree = ast.parse(code, script_path, "exec")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ashedd/.pyenv/versions/3.11.9/lib/python3.11/ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ashedd/Documents/france-honeymoon-itinerary/trip_dashboard.py", line 221
+    index=0,
+IndentationError: unexpected indent
+2025-12-25 22:18:45.931 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-12-25 22:19:24.555 Script compilation error
+Traceback (most recent call last):
+  File "/Users/ashedd/.pyenv/versions/3.11.9/lib/python3.11/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 573, in _run_script
+    code = self._script_cache.get_bytecode(script_path)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ashedd/.pyenv/versions/3.11.9/lib/python3.11/site-packages/streamlit/runtime/scriptrunner/script_cache.py", line 72, in get_bytecode
+    filebody = magic.add_magic(filebody, script_path)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ashedd/.pyenv/versions/3.11.9/lib/python3.11/site-packages/streamlit/runtime/scriptrunner/magic.py", line 45, in add_magic
+    tree = ast.parse(code, script_path, "exec")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ashedd/.pyenv/versions/3.11.9/lib/python3.11/ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ashedd/Documents/france-honeymoon-itinerary/trip_dashboard.py", line 221
+    index=0,
+IndentationError: unexpected indent
+2025-12-25 22:19:24.556 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.

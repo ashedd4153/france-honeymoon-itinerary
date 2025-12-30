@@ -1,61 +1,72 @@
 # Loire Valley
-**2 Nights · July 25–27**
+**2 Nights · July 26–28**
+**Jump to:** [Day 7 (Arrival)](#day-7-july-26-sun-arrival-in-amboise) | [Day 8 (Castles & Wine)](#day-8-july-27-mon-the-ladies-castle) | [Day 9 (Depart)](#day-9-july-28-tue-south-to-the-coast)
 
-## Overview
+## 📅 Detailed Daily Itinerary
 
-The Loire Valley is France's garden, famous for its stunning Renaissance châteaux and exceptional wines. A perfect overnight stop between Versailles and Bordeaux.
+### [Day 7: July 26 (Sun) - Arrival in Amboise](#day-7-july-26-sun-arrival-in-amboise)
+*Sunset & Castle Vines*
+*   **3:00 PM:** Arrive at **Gare d'Amboise** (from Versailles/Massy).
+*   **3:30 PM:** Check into **[Au Charme Rabelaisien](#where-to-stay)**.
+*   **5:00 PM:** **Vineyard Dinner:** Taxi/Uber (20 min) to **[Château de Nitray](#2-the-wine)**.
+    *   *Activity:* "Tuscan-style" estate visit + dinner at **La Table du Vigneron**.
+*   **8:30 PM:** Taxi back to Amboise.
+[↑ Back to Overview](#loire-valley)
 
-## 🏰 Pacing Decision: 1 Night vs. 2 Nights?
-*You asked to let the activities drive the time. Here is the trade-off:*
+### [Day 8: July 27 (Mon) - The Ladies' Castle](#day-8-july-27-mon-the-ladies-castle)
+*Cycling the Cher River*
+*   **9:15 AM:** Enjoy the hotel garden breakfast.
+*   **10:00 AM:** Rent E-Bikes.
+*   **11:00 AM:** Explore **[Château de Chenonceau](#1-the-châteaux-pick-2)**.
+*   **1:00 PM:** Picnic lunch.
+*   **3:00 PM:** Return to Amboise. Relax in the **hotel pool/spa**.
+*   **4:30 PM:** Visit **Château du Clos Lucé** or walk the town.
+*   **8:00 PM:** Dinner in Amboise.
+[↑ Back to Overview](#loire-valley)
 
-### The "Sprint" (1 Night)
-*   **Time:** Arrive Sunday afternoon, Depart Monday afternoon.
-*   **What you get:**
-    *   **1 Château:** Probably **Chenonceau** (the most romantic/iconic) on Sunday afternoon.
-    *   **Dinner:** Nice meal in Amboise.
-    *   **Morning:** Quick coffee, maybe a view of Amboise castle from outside, then train to Versailles.
-*   **Missing:** Wine tasting, Chambord, biking, relaxing.
-
-### The "Savour" (2 Nights) - *Recommended*
-*   **Time:** Arrive Saturday afternoon, Depart Monday morning.
-*   **What you get:**
-    *   **Day 1:** Arrival & Sunset dinner in Amboise.
-    *   **Day 2 (The Big Day):**
-        *   **Morning:** **Château de Chenonceau** (beat the crowds).
-        *   **Lunch:** Picnic or bistro in the gardens.
-        *   **Afternoon:** **Wine Tasting** in Vouvray (Sparkling/White) OR **Chambord** (The giant one).
-        *   **Activity:** Rent e-bikes and ride along the river to the château (very flat/easy).
-*   **Verdict:** 2 Nights allows you to actually *do* something (Wine + 2 Castles) rather than just *see* one thing.
+### [Day 9: July 28 (Tue) - South to the Coast](#day-9-july-28-tue-south-to-the-coast)
+*The Long Haul to Basque Country*
+*   **9:00 AM:** Leisurely breakfast.
+*   **10:15 AM:** Taxi/Walk to Gare d'Amboise.
+*   **11:00 AM:** **Train:** Connect to St-Pierre-des-Corps, then TGV to **Saint-Jean-de-Luz** (via Bordeaux).
+[↑ Back to Overview](#loire-valley)
 
 ## Where to Stay
 
-Consider staying near **Tours** or **Amboise** for easy TGV access:
-- Amboise offers a more intimate, château-village feel
-- Tours is larger with more dining options and direct TGV connections
+**Our Top Pick: [Au Charme Rabelaisien](https://www.au-charme-rabelaisien.com)**
+*   **Vibe:** "Smart Luxury" sanctuary. Small (10 rooms), intimate, heated pool & spa.
+*   **Location:** Historic center, very quiet.
+*   **Why:** Perfect mix of old charm and modern wellness comfort.
+
+**Runner Up: [Le Clos d'Amboise](https://www.leclosdamboise.com/)**
+*   **Vibe:** Historic mansion with a larger park/garden feel. Good if you want more "grandeur."
 
 ## 🍷 Wine & Activities Guide
 
-### 1. The Châteaux (Pick 2)
-*   **Chenonceau ("The Ladies' Castle"):** *Must-do.* Spans the river. Romantic, elegant gardens. Best for couples.
-*   **Chambord:** *The Giant.* Massive, royal, double-helix staircase (Da Vinci). Impressive scale.
-*   **Amboise:** *The Convenient One.* Right in town, great views, Da Vinci's grave.
+### 1. The Châteaux (Accessible from Amboise)
+*   **[Château de Chenonceau](https://www.chenonceau.com):** The "Ladies' Castle" over the river. *Must-do.*
+    *   *Access:* E-Bike (easy) or Rémi Bus Line C.
+*   **[Château Royal d'Amboise](https://www.chateau-amboise.com):** Royal residence with great river views.
+    *   *Access:* 5-minute walk from hotel.
+*   **[Château du Clos Lucé](https://vinci-closluce.com):** Leonardo da Vinci's final home & invention park.
+    *   *Access:* 10-minute walk from castle/center.
 
-### 🚗 Châteaux Driving Route (Google Maps)
-**Route:** Amboise (Base) → Château de Chenonceau (20 min) → Château de Chambord (45 min from Chenonceau).
-**Note:** This is an optimal driving loop if creating a day trip.
-👉 **[Open Route in Google Maps](https://www.google.com/maps/dir/Amboise/Ch%C3%A2teau+de+Chenonceau/Ch%C3%A2teau+de+Chambord)**
+### 2. The Wine (Vineyard Lunch/Dinner)
+*   **[Château de Nitray](https://www.chateau-nitray.fr/):** Located 15km from Amboise (20 min Taxi).
+    *   **Specialty:** Renaissance Château with a seasonal restaurant, **La Table du Vigneron**.
+    *   **Experience:** "Tuscan-style" estate dining on the terrace with vineyard views.
+    *   **Transit:** Pre-book a taxi for the return trip!
+*   **Alternative:** **[Plou & Fils](http://www.plouetfils.com/):** Closer (10 min), free tasting/walk (no restaurant).
 
-### 2. The Wine (Pick 1 Region)
-*   **Vouvray (White/Sparkling):** Just across the river from Amboise. Famous for Chenin Blanc (from dry to sweet). Visit troglodyte (cave) cellars.
-*   **Chinon (Red):** Bold Cabernet Francs. A bit further west, medieval castle vibe.
-
-### 3. The "Active" Option
-*   **E-Bike to Chenonceau:** It's a flat, easy ride through the forest from Amboise (~45 mins). Very popular and scenic.
+### 3. Getting Around Without a Car
+*   **Walk:** Amboise is very compact. The center, castle, and restaurants are all within 5-10 mins.
+*   **Bike:** Highly recommended for Chenonceau. Dedicated paths exist.
+*   **Taxi:** Available at station, but book ahead if needed for early departures.
 
 ## Getting There & Away
 
-- **From Versailles**: TGV from Massy or Montparnasse (~1-1.5 hours)
-- **To Bordeaux**: Direct TGV from Saint-Pierre-des-Corps (~1 hr 45 min)
+- **From Versailles**: TGV to St-Pierre-des-Corps -> Shuttle train to Amboise.
+- **To Saint-Jean-de-Luz**: Shuttle train to St-Pierre-des-Corps -> TGV to Saint-Jean (approx 4.5 hrs).
 
 ## Accommodation Ideas
 

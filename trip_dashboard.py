@@ -6,6 +6,7 @@ from pathlib import Path
 from typing import Any
 
 import streamlit as st
+import audit_itinerary
 
 BASE_DIR = Path(__file__).parent
 
@@ -24,6 +25,7 @@ LOCATIONS = ITINERARY.get("destinations", [])
 PLANNING_DOCS = ITINERARY.get("planning_docs", {})
 TRIP_TITLE = ITINERARY.get("trip_title", "Honeymoon Dashboard")
 DATES_SUMMARY = ITINERARY.get("dates_summary", "")
+ARCHIVED_DOCS = ITINERARY.get("archived_docs", {})
 
 # --- Helpers ---
 
@@ -50,7 +52,7 @@ def render_markdown_with_images(content: str) -> None:
         if i + 2 < len(parts):
             text_before = parts[i]
             if text_before.strip():
-                st.markdown(text_before)
+                st.markdown(text_before, unsafe_allow_html=True)
             
             potential_alt = parts[i + 1]
             potential_path = parts[i + 2]
@@ -66,7 +68,7 @@ def render_markdown_with_images(content: str) -> None:
                 i += 1
         else:
             if parts[i].strip():
-                st.markdown(parts[i])
+                st.markdown(parts[i], unsafe_allow_html=True)
             i += 1
 
 def render_location_details(location: dict[str, Any]) -> None:
@@ -115,11 +117,22 @@ def overview_page() -> None:
     with col2:
         st.markdown("### 📍 Segments")
         for loc in LOCATIONS:
-            if loc['days'] > 0:
-                st.write(f"{loc['emoji']} **{loc['name']}** – {loc['dates']} ({loc['days']} nights)")
-            else:
-                st.write(f"{loc['emoji']} **{loc['name']}** – {loc['dates']}")
+            c1, c2 = st.columns([0.7, 0.3])
+            with c1:
+                if loc['days'] > 0:
+                    st.write(f"{loc['emoji']} **{loc['name']}**")
+                    st.caption(f"{loc['dates']} ({loc['days']} nights)")
+                else:
+                    st.write(f"{loc['emoji']} **{loc['name']}**")
+                    st.caption(loc['dates'])
+            with c2:
+                def set_dest_page(name=loc['name']):
+                    st.session_state["page"] = "Destinations"
+                    st.session_state["selected_dest"] = name
+                
+                st.button("Details ➝", key=f"btn_{loc['name']}", on_click=set_dest_page)
         
+        st.divider()
         google_maps_link = ITINERARY.get("google_maps_link")
         if google_maps_link:
             st.link_button("🗺️ View Route on Google Maps", google_maps_link)
@@ -136,22 +149,29 @@ def overview_page() -> None:
 def destinations_page() -> None:
     st.title("Destination Details")
     
-    # Filter to actual destinations (not fly out/home)
-    destinations = [loc for loc in LOCATIONS if loc["days"] > 0]
     
-    # Use tabs for destinations if there aren't too many, otherwise a selectbox
-    if len(destinations) <= 10:
-        tabs = st.tabs([f"{loc['emoji']} {loc['name']}" for loc in destinations])
-        for tab, loc in zip(tabs, destinations):
-            with tab:
-                render_location_details(loc)
-    else:
-        selected_name = st.selectbox(
-            "Choose a segment to explore",
-            [f"{loc['name']} ({loc['dates']})" for loc in destinations],
-        )
-        selected = next(loc for loc in destinations if loc["name"] in selected_name)
-        render_location_details(selected)
+    # Filter to actual destinations (not fly out/home)
+    destinations = [loc for loc in LOCATIONS if loc["days"] >= 0]
+    dest_names = [d["name"] for d in destinations]
+    
+    # Determine default index based on session state
+    default_ix = 0
+    if "selected_dest" in st.session_state and st.session_state["selected_dest"] in dest_names:
+        default_ix = dest_names.index(st.session_state["selected_dest"])
+    
+    # Use Radio for navigation instead of Tabs to allow programmatic selection
+    selected_name = st.radio(
+        "Select Destination", 
+        dest_names, 
+        horizontal=True, 
+        index=default_ix,
+        format_func=lambda x: f"{next(d['emoji'] for d in destinations if d['name'] == x)} {x}"
+    )
+    
+    st.divider()
+    
+    selected_loc = next(loc for loc in destinations if loc["name"] == selected_name)
+    render_location_details(selected_loc)
 
 def logistics_page() -> None:
     st.title("Flights & Transport Logistics")
@@ -178,7 +198,56 @@ def packing_page() -> None:
     
     st.info("Tip: keep allergy cards accessible during dining, especially in Paris and San Sebastián.")
 
-# --- Main ---
+    st.info("Tip: keep allergy cards accessible during dining, especially in Paris and San Sebastián.")
+
+def archive_page() -> None:
+    st.title("📂 Archived Investigations")
+    
+    if ARCHIVED_DOCS:
+        tabs = st.tabs(list(ARCHIVED_DOCS.keys()))
+        for tab, (title, path) in zip(tabs, ARCHIVED_DOCS.items()):
+            with tab:
+                render_planning_section(title, path)
+    else:
+        st.info("No archived investigations yet.")
+
+def audit_page() -> None:
+    st.title("🛡️ System Audit")
+    st.write("Verifying link integrity across all itinerary files...")
+    
+    # Files to check
+    files_to_check = [BASE_DIR / loc["file"] for loc in LOCATIONS if "file" in loc]
+    # Add manual inclusions if needed (like newark.md if not in locations?)
+    # LOCATIONS includes newark.md now.
+    
+    total_errors = 0
+    
+    for file_path in files_to_check:
+        if not file_path.exists():
+            st.error(f"❌ File not found: {file_path.name}")
+            continue
+            
+        with st.expander(f"Checking {file_path.name}...", expanded=True):
+            try:
+                # Reload module to ensure fresh code if I edited it
+                import importlib
+                importlib.reload(audit_itinerary)
+                
+                errors = audit_itinerary.audit_file(file_path)
+                if errors:
+                    for err in errors:
+                        st.error(err)
+                    total_errors += len(errors)
+                else:
+                    st.success("✅ All checks passed.")
+            except Exception as e:
+                st.exception(e)
+                
+    if total_errors == 0:
+        st.balloons()
+        st.success("✨ ALL SYSTEMS GO: No broken links found.")
+    else:
+        st.error(f"🚫 Found {total_errors} broken links.")
 
 def main() -> None:
     st.set_page_config(
@@ -188,14 +257,29 @@ def main() -> None:
         initial_sidebar_state="expanded"
     )
 
+    st.markdown("""
+        <style>
+        /* Offset scroll position for anchor links to account for fixed header */
+        [id] {
+            scroll-margin-top: 100px;
+        }
+        /* Make sure our custom spans don't affect layout */
+        span[id] {
+            display: inline-block;
+            content: "";
+        }
+        </style>
+    """, unsafe_allow_html=True)
+
     # Sidebar Navigation with custom branding
     st.sidebar.title("✈️ Honeymoon 2026")
     st.sidebar.divider()
     
     page = st.sidebar.radio(
         "Navigation",
-        ["Overview", "Destinations", "Logistics", "Packing & Prep"],
-        index=0
+        ["Overview", "Destinations", "Logistics", "Packing & Prep", "Archives", "Audit"],
+        index=0,
+        key="page"
     )
     
     st.sidebar.divider()
@@ -209,6 +293,10 @@ def main() -> None:
         logistics_page()
     elif page == "Packing & Prep":
         packing_page()
+    elif page == "Archives":
+        archive_page()
+    elif page == "Audit":
+        audit_page()
 
 if __name__ == "__main__":
     main()

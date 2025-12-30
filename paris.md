@@ -1,5 +1,6 @@
 
 Arrive Monday morning after the red-eye. Five days of art, food, and romance.
+**Jump to:** [Day 1 (Arrival)](#day-1-july-20-mon-the-soft-landing) | [Day 2 (Montmartre)](#day-2-july-21-tue-montmartre-romance) | [Day 3 (Icons)](#day-3-july-22-wed-the-grand-icons) | [Day 4 (Marais)](#day-4-july-23-thu-le-marais-the-seine) | [Day 5 (Departure)](#day-5-july-24-fri-departure-to-versailles)
 
 ## 🏨 AMEX Fine Hotels + Resorts Options
 *Prices shown for 4-night stay (July 28–Aug 1 search)*
@@ -24,7 +25,7 @@ Arrive Monday morning after the red-eye. Five days of art, food, and romance.
 #### **Zone A: The "Royal Left Bank" (Eiffel to Orsay)**
 **Route:** Trocadéro → Eiffel Tower → Champ de Mars → Invalides (**Army Museum/Napoleon's Tomb**) → Pont Alexandre III → **Musée d'Orsay** (Impressionist Art) → Saint-Germain-des-Prés.
 **Distance:** ~5 km.
-**Note:** Passes near **Musée Rodin** (Varenne stop).
+**Note:** Passes near **[Musée Rodin](https://www.musee-rodin.fr/en)** (Varenne stop).
 👉 **[Open Zone A Map](https://www.google.com/maps/dir/Trocad%C3%A9ro,+Paris/Tour+Eiffel,+Paris/Champ+de+Mars,+Paris/Les+Invalides,+Paris/Pont+Alexandre+III,+Paris/Mus%C3%A9e+d'Orsay,+Paris/Saint-Germain-des-Pr%C3%A9s,+Paris)**
 
 #### **Zone B: The "Intellectual Heart" (Latin Quarter Deep Dive)**
@@ -51,121 +52,34 @@ Arrive Monday morning after the red-eye. Five days of art, food, and romance.
 
 ---
 
-### 1. 🌿 La Fantaisie ⭐ BEST VALUE
-**$532/night** ($2,451 total) | TripAdvisor 4.8/5 | 9th arr
+### 🏨 Where to Stay (Smart Luxury)
 
+**1. [Le Ballu](https://leballu-paris.com/)** (9th Arr.)
+*   **The Vibe:** "Syldavian" Art Deco fantasy. Very stylish, colorful, and intimate.
+*   **The Win:** For ~$300–400, you can book a **Junior Suite** (~300 sq ft). You get the space you need without paying for a pool you won't use.
+*   **Breakfast:** Lovely homemade/organic menu (~€20) served in a lush, hidden garden.
+*   **Checkout:** 12:00 PM (Leave bags at desk).
 
-**Location:** Rue Cadet – near Montmartre, not touristy, walkable to Galeries Lafayette, Opera, Louvre
-**Vibe:** Whimsical floral design, opened June 2023, "lush oasis"
-**Highlights:** Rooftop bar with amazing views, spa (pools + sauna), well-designed rooms
+**2. [Hôtel Fabric](https://www.hotelfabric.com/)** (11th Arr.)
+*   **The Vibe:** Industrial chic in a former factory. High ceilings, spacious rooms.
+*   **The Win:** Located *directly* in your foodie neighborhood (Oberkampf).
 
-**Reddit Says:** *"Had clients stay here for their honeymoon and loved it"* • Great for couples, vibrant green terrace, rooms may be small but thoughtfully designed
+**3. [La Fantaisie](#)** (9th Arr.)
+*   **Status:** *Alternative Choice.* (Book via Amex FHR for perks if budget allows).
+*   **Est. $600/night** | **AMEX Fine Hotels + Resorts**
 
----
+**Why we picked it:**
+*   **The "Urban Resort" Factor:** It is the only option with a **full pool and spa** (included for guests). Perfect for a honeymoon relaxation moment.
+*   **Dairy-Free Paradise:** The breakfast is known for being plant-forward (chia puddings, avocado toast, oat milk lattes standard) rather than just "bread and cheese."
+*   **Location:** You are in the 9th, walkable to your "Foodie Wishlist" (Pink Mamma, Holybelly, etc.).
 
-### 2. 🍫 Fauchon L'Hotel Paris ⭐ BEST FOR FOODIES
-**$650/night** ($2,969 total) | TripAdvisor 4.9/5 | 8th arr
+**AMEX FHR Benefits (Guaranteed):**
+*   ✅ **Daily Breakfast for 2:** Served 7:00 AM – 10:30 AM (perfect for your 7 AM wake-up).
+*   ✅ **$100 Property Credit:** Use this for drinks at the rooftop bar "Bar Sur Toit."
+*   ✅ **Room Upgrade:** Subject to availability (ask for a balcony!).
 
-
-**Location:** Near Madeleine – walk to Place de la Concorde, Rue du Faubourg Saint-Honoré boutiques
-**Vibe:** Gourmet-luxury, magenta/black design, champagne & macarons at check-in
-**Highlights:** Complimentary Fauchon gourmet bar in room, Le Grand Café restaurant, spa + gym
-
-**Reddit Says:** *"Fantastic stay – champagne and macaroons at check-in, amazing service, fun whimsical design"* • In-room treats (macarons, madeleines, chocolate, foie gras)
-
----
-
-### 3. 🎨 SO/ Paris Hotel ⭐ BEST VIEWS
-**$545/night** ($2,510 total) | TripAdvisor 4.4/5 | 4th arr
-
-
-**Location:** Bas Marais on the Seine – near metro, panoramic views of Seine, Eiffel Tower, Notre-Dame
-**Vibe:** Fashion-forward, colorful design, Accor lifestyle brand
-**Highlights:** Bonnie rooftop bar/restaurant with city views, spa, pool access
-
-**Reddit Says:** *"Central location on the Seine, rooms and rooftop bar have excellent city views"* • Some noted communication issues with hotel; area is quieter stretch of Marais
-
----
-
-### 4. 🎭 Brach# Paris: The Grand Finale
-**4 Nights · July 20 – July 24**
-
-## 🕰️ Pacing Decision: 4 vs. 5 Nights?
-*User Question: "Is 4 nights more appropriate given the cost and we aren't shoppers?"*
-
-**The Case for 4 Nights (The "Efficient" Finale)**
-*   **The Math:** You arrive from Newark by **11:00 AM on Monday**. This means Monday is practically a full day.
-    *   **Day 1 (Mon):** Arrive, South Pigalle lunch, Montmartre sunset.
-    *   **Day 2 (Tue):** The Big Sightseeing (Louvre/Tuileries/Seine).
-    *   **Day 3 (Wed):** The Left Bank (St Germain, Luxembourg Gardens).
-    *   **Day 4 (Thu):** Leisure/Vibe day + Final Dinner.
-    *   **Day 5 (Fri):** Morning explore, train to Versailles.
-*   **Verdict:** **YES.** If you cut shopping, 4 nights is plenty. You save ~$400–$600.
-
-**The Case for 5 Nights (The "Full Experience")**
-*   **Yes, there is a ton to do.** If you stay 5 nights, "Day 5" isn't empty. It is for the "Tier 1" sights you skipped to avoid burnout:
-    *   **Musée d'Orsay:** The Impressionist masterpiece (Van Gogh, Monet). Essential for art lovers.
-    *   **Musée Rodin:** The most beautiful garden museum in Paris.
-    *   **Le Marais Deep Dive:** Shopping and falafel on Rue des Rosiers.
-    *   **Canal Saint-Martin:** The hip, local picnic spot.
-    *   **Day Trip:** Monet's Gardens at Giverny (45 mins away).
-*   **Verdict:** Keep 5 nights if you simply love being in a big city and want to see *everything* without rushing.
-
-## ⚖️ Trade-Off: Day 5 Paris vs. Day 2 Saint-Jean-de-Luz
-*   **Day 5 Paris:** More walking, more museums, more energy. (Cost: $$$)
-*   **Day 2 St-Jean:** A lazy beach day, swimming, grilled seafood lunch. (Cost: $$)
-*   *Honeymoon Advice:* At the end of a 2-week trip, you might prefer the beach rest over another museum.
-**$695/night** ($3,169 total) | TripAdvisor 4.1/5 | 16th arr
-
-
-**Location:** 16th arr – 15-min walk to Eiffel Tower, near Fondation Louis Vuitton, Bois de Boulogne
-**Vibe:** Philippe Starck design, eclectic art, converted 1970s post office
-**Highlights:** 22m pool, spa, hammam, rooftop garden with Eiffel views, Mediterranean restaurant
-
-**Reddit Says:** *"Seriously cool 5-star design hotel"* • Great for exploring a quieter, upmarket Paris; some top-floor suites have hot tubs + Eiffel views
-
----
-
-### 5. 🗼 Sax Paris LXR Hotels ⭐ BEST EIFFEL VIEWS
-**$697/night** ($3,175 total) | TripAdvisor 4.5/5 | 7th arr
-
-
-**Location:** 7th arr near Avenue de Saxe – close to Eiffel Tower but away from chaos
-**Vibe:** New Hilton luxury brand, modern interiors, rooftop with views
-**Highlights:** Best Eiffel Tower views of any Hilton in Paris, spacious rooms, near riverside walks
-
-**Reddit Says:** *"Top 3 in every category among Paris Hiltons"* • New property, rooms are "pretty luxurious," but mixed reviews on breakfast quality
-
----
-
-### 💡 Quick Comparison
-
-| Hotel | Price/Night | Total | Arr. | Best For |
-|-------|------------|-------|------|----------|
-| **La Fantaisie** | $532 | $2,451 | 9th | Value + Honeymoon |
-| **SO/ Paris** | $545 | $2,510 | 4th | Seine Views |
-| **Fauchon** | $650 | $2,969 | 8th | Foodies |
-| **Brach Paris** | $695 | $3,169 | 16th | Design Lovers |
-| **Sax LXR** | $697 | $3,175 | 7th | Eiffel Views |
-
----
-
-### 🆚 Why are these cheaper than the "Palaces"?
-
-You're seeing **$500–700** vs. **$1,500–2,000+**. Here is the objective breakdown of why the price gap exists.
-
-#### ✅ "Good" Reasons (Smart Savings)
-- **Brand Heritage Tax:** You aren't paying for a name like "Ritz" or "Plaza Athénée." High-end Marriott/Dorchester hotels charge for the legacy.
-- **Modern Hardware:** Properties like **La Fantaisie** (2023) and **Sax LXR** are newer. You get USB-C ports and modern HVAC instead of "classic" (old) French plumbing and heavy drapes.
-- **Service Scale:** A Palace has a ~1:3 staff-to-guest ratio. These FHR hotels are closer to 1:1. You still get a concierge and turndown service, but not a dedicated butler for your floor.
-- **Marketing Strategy:** Newer hotels often use AMEX FHR to "buy" visibility, offering better rates to build a reputation.
-
-#### ⚠️ "Bad" Reasons (The Trade-offs)
-- **Location Prestige:** Palaces are on **Avenue Montaigne** or **Place Vendôme**. The FHR options are in great (often cooler) neighborhoods like **SoPi (9th)** or the **Bas Marais**, but they lack the "Golden Triangle" zip code.
-- **Room Scale:** In a Palace, a "Standard" room is often 400+ sq ft. In these FHR hotels, a Standard is "Paris-sized" (250–300 sq ft). You have to book a Junior Suite to match Palace space.
-- **Legacy "Vibe":** You won't find the gilding, crystal chandeliers, or "Napoleon stayed here" history. These are **lifestyle luxury**, not **institutional luxury**.
-
-**The Verdict:** For a honeymoon, these FHR options are the **"Value Splurge."** You get the $600 credit and $100 perks, and you're paying for the *actual* room rather than the history of the building.
+**The Vibe:**
+Whimsical, garden-themed, "Wes Anderson" aesthetic. It feels like a secret garden in the city. Since Dominique Crenn left, the restaurant is less "famous" but the breakfast remains excellent and healthy.
 
 ---
 
@@ -178,30 +92,74 @@ You're seeing **$500–700** vs. **$1,500–2,000+**. Here is the objective brea
 - **Accommodation:** Airbnb recommended for feeling like a local
 - **Tips:** Look for A/C, Superhost, quiet street
 
-## 📅 Suggested Pacing
+## 📅 Detailed Daily Itinerary
 
-| Day | Date | Focus |
-|-----|------|-------|
-| 1 | July 20 (Mon) | **Arrival day** – check in, nap, light exploring, early dinner |
-| 2 | July 21 (Tue) | Full day – Rodin Museum, Seine walk, evening drinks |
-| 3 | July 22 (Wed) | Full day – Montmartre, Sacré-Cœur, neighborhood lunch |
-| 4 | July 23 (Thu) | Full day – museum or day trip, special dinner |
-| 5 | July 24 (Fri) | Morning explore, train to Versailles |
+### [Day 1: July 20 (Mon) - The Soft Landing](#day-1-july-20-mon-the-soft-landing)
+*Arrival & Survival*
+👉 **[🗺️ Open Day 1 map](https://www.google.com/maps/dir/La+Fantaisie,+Rue+Cadet,+Paris/Holybelly+5,+Rue+Lucien+Sampaix,+Paris/Bateaux-Mouches,+Port+de+la+Conf%C3%A9rence,+Paris/Chez+Omar,+Rue+de+Bretagne,+Paris)**
+*   **10:00 AM:** Land at CDG. Taxi to Hotel.
+*   **12:00 PM:** Drop bags at **[La Fantaisie](#la-fantaisie-confirmed-choice)**.
+*   **1:00 PM:** **Lunch:** Walk to **[Holybelly](#holybelly)** (serves until 4pm) for pancakes/eggs.
+*   **3:00 PM:** Check in, shower, nap.
+*   **6:00 PM:** **Activity:** Sunset River Cruise on **[Bateaux Mouches](#bateaux-mouches)**.
+*   **8:00 PM:** **Dinner:** **[Chez Omar](#chez-omar)** (Couscous/Steak Frites). Loud, fun, awake.
+[↑ Back to Daily Overview](#detailed-daily-itinerary)
 
-## 🗺 Activities
-- Rodin Museum and garden picnic
-- Montmartre stroll + Sacré-Cœur views
-- Seine riverwalk and sunset picnic
-- Latin Quarter wine bars or rooftop drinks
+### [Day 2: July 21 (Tue) - Montmartre & Romance](#day-2-july-21-tue-montmartre-romance)
+*Village Vibes (Avoiding Tuesday Museum Closures)*
+👉 **[🗺️ Open Day 2 Map (Full Walking Route)](https://www.google.com/maps/dir/KB+Coffee+Roasters,+Ave+Trudaine,+Paris/Moulin+Rouge,+Paris/Caf%C3%A9+des+Deux+Moulins,+Rue+Lepic,+Paris/Place+des+Abbesses,+Paris/Funiculaire+de+Montmartre,+Paris/Sacr%C3%A9-C%C5%93ur,+Paris/Place+du+Tertre,+Paris/Pink+Mamma,+Rue+de+Douai,+Paris/Galeries+Lafayette+Haussmann,+Paris/La+Fantaisie,+Rue+Cadet,+Paris/Kubri,+Rue+Amelot,+Paris)**
+*   **10:00 AM:** **Breakfast:** **[KB Coffee Roasters](https://goo.gl/maps/placeholder)** (SoPi / 9th Arr) or **[The French Bastards](#bak-breakfast)**.
+*   **11:00 AM:** **Activity:** **[Montmartre Walk (Zone D)](#zone-d-the-artistic-heights-montmartre-mega-walk)**.
+    *   *Stops included in map:* **Moulin Rouge** → **Café des Deux Moulins** (Amélie) → **Place des Abbesses** (Wall of Love) → **Funicular** → **Sacré-Cœur** → **Place du Tertre**.
+*   **1:00 PM:** **Lunch:** **[Pink Mamma](#pink-mamma)** (Top floor). *Book 30 days out.*
+*   **3:00 PM:** **Shopping:** Explore **G. Detou** (2nd) or **Galeries Lafayette** (9th) which are walk/short ride downhill.
+*   **6:00 PM:** Rooftop drinks at **La Fantaisie**.
+*   **8:00 PM:** **Dinner:** **[Kubri](#kubri)** (Lebanese - 11th Arr).
+[↑ Back to Daily Overview](#detailed-daily-itinerary)
+
+### [Day 3: July 22 (Wed) - The Grand Icons](#day-3-july-22-wed-the-grand-icons)
+*The Classics (Museums Open Wednesdays)*
+👉 **[🗺️ Open Day 3 Map](https://www.google.com/maps/dir/La+Fantaisie,+Rue+Cadet,+Paris/Louvre+Museum,+Paris/Ellsworth,+Rue+de+Richelieu,+Paris/Jardin+des+Tuileries,+Paris/Mus%C3%A9e+de+l'Orangerie,+Paris/Citypharma,+Rue+du+Four,+Paris/Le+Bon+Georges,+Rue+Saint-Georges,+Paris)**
+*   **9:00 AM:** Breakfast at La Fantaisie.
+*   **10:30 AM:** **Activity:** **[Louvre Museum](#the-louvre-strategy-smart-luxury)** (Richelieu Entrance). *Wednesdays are great for this.*
+*   **1:30 PM:** **Lunch:** **[Ellsworth](#ellsworth)** (1st Arr).
+*   **3:30 PM:** Walk through **[Tuileries Garden](#1-the-grand-axis-hardy-sightseeing-walk)** to **[Musée de l'Orangerie](#1-the-grand-axis-hardy-sightseeing-walk)** (Monet's Water Lilies). Plan for ~1.5 hours.
+*   **5:30 PM:** **Shopping:** Cross the bridge (~20 min walk) to **[City Pharma](#shopping)** (6th Arr).
+*   **7:00 PM:** Refresh at Hotel.
+*   **8:30 PM:** **Dinner:** **[Le Bon Georges](#le-bon-georges)** (9th Arr - Near Hotel).
+[↑ Back to Daily Overview](#detailed-daily-itinerary)
+
+### [Day 4: July 23 (Thu) - Le Marais & The Right Bank](#day-4-july-23-thu-le-marais-the-seine)
+*History & Shopping*
+👉 **[🗺️ Open Day 4 Map (Full Walking Route)](https://www.google.com/maps/dir/Place+des+Vosges,+Paris/Maison+de+Victor+Hugo,+Place+des+Vosges,+Paris/Rue+des+Rosiers,+Paris/Breizh+Caf%C3%A9+Le+Marais,+Rue+Vieille+du+Temple,+Paris/Jacques+Genin,+Rue+de+Turenne,+Paris/Sainte-Chapelle,+Paris/Le+Mary+Celeste,+Rue+Commines,+Paris/Septime,+Rue+de+Charonne,+Paris)**
+*   **10:00 AM:** **Activity:** **[Zone C Walk](#zone-c-the-historic-east-bakers-block-to-bastille)**.
+    *   *Stops included in map:* **Place des Vosges** → **Maison de Victor Hugo** → **Rue des Rosiers** (Jewish Quarter).
+*   **12:30 PM:** **Lunch:** **[Breizh Café](#breizh-cafe)** (Sency/Marais). Salted caramel crepes. (Expect a wait or book ahead).
+*   **3:00 PM:** **Treat:** **[Jacques Genin](#jacques-genin)** (Caramels) or **[Maison Aleph](#maison-aleph)**.
+*   **4:30 PM:** Visit **[Sainte-Chapelle](#sights--activities)** (Stained Glass). *Last entry 6:20pm.*
+*   **5:30 PM:** Cocktail at **[Le Mary Celeste](#le-mary-celeste)**.
+*   **8:30 PM:** **Dinner:** **[Septime](#septime)** (The Big Reservation) or **[Clamato](#clamato)** (No res needed).
+[↑ Back to Daily Overview](#detailed-daily-itinerary)
+
+### [Day 5: July 24 (Fri) - The "Last Supper" in Paris](#day-5-july-24-fri-the-last-supper-in-paris)
+*Departure & Dining*
+*   **9:00 AM:** Breakfast at the hotel.
+*   **11:00 AM:** Relax/Pack.
+*   **12:00 PM:** **Check Out:** Leave bags with the bellman at your hotel.
+*   **12:30 PM:** Lunch in the neighborhood or leisure shopping (Keep it casual).
+*   **5:00 PM:** Final stroll or pre-dinner drinks at **Le Ballu's Garden** or **Le Mary Celeste**.
+*   **8:00 PM:** **Dinner in Paris:** Go to one of your high-confidence favorites (e.g., **Septime**, **Kubri**, **Pink Mamma**).
+*   **10:30 PM:** Pick up bags and Uber to Versailles (Traffic should be lighter now).
+[↑ Back to Daily Overview](#detailed-daily-itinerary)
 
 ### 🗼 Eiffel Tower Logistics
 **The Summit (Top)**
-*   **Ticket:** ~€29.40 (Lift). Book months in advance.
+*   **Ticket:** ~€29.40 (Lift). Book months in advance at the [Official Website](https://www.toureiffel.paris/en).
 *   **Dining:** Champagne Bar only (standing, €15–€22/glass).
 
 **Restaurants**
-*   **Le Jules Verne (2nd Floor):** 2 Michelin Stars. Private elevator. Jacket required. Lunch ~€180+, Dinner ~€300+. Book 90 days out.
-*   **Madame Brasserie (1st Floor):** Casual/Chic. Lunch ~€60+, Dinner ~€100+.
+*   **[Le Jules Verne](https://www.restaurants-toureiffel.com/en/jules-verne.html) (2nd Floor):** 2 Michelin Stars. Private elevator. Jacket required. Lunch ~€180+, Dinner ~€300+. Book 90 days out.
+*   **[Madame Brasserie](https://www.restaurants-toureiffel.com/en/madame-brasserie.html) (1st Floor):** Casual/Chic. Lunch ~€60+, Dinner ~€100+.
 
 
 **Pro Tips:**
@@ -244,7 +202,7 @@ If you want >3 hours (start guided, end solo):
 ### 🎫 What Else Needs a Guide? (The "Is It Worth It?" List)
 *Aside from the Louvre, here is where a paid guide or ticket upgrade makes sense.*
 
-**1. The Catacombs (ACCESS REQUIRED)**
+**1. The [Catacombs](https://www.catacombes.paris.fr/en) (ACCESS REQUIRED)**
 *   **Verdict:** **Yes, Upgrade.**
 *   **Why:** Public line is famously slow/sold out. Finding "Skip the Line" tickets is a bloodsport. A tour guarantees entry and access to restricted sections (the "Secret Chapel").
 *   **Vendor:** **City Wonders** or **Take Walks** (Small Group).
@@ -254,7 +212,7 @@ If you want >3 hours (start guided, end solo):
 *   **Why:** It's huge and the train can be confusing. A tour handles the RER train tickets + entrance.
 *   **DIY Alternative:** Take the RER C yourself (~€8) and rent the audio guide. Only book a tour if you hate navigating trains.
 
-**3. Musée d'Orsay (CONTEXT)**
+**3. [Musée d'Orsay](https://www.musee-orsay.fr/en) (CONTEXT)**
 *   **Verdict:** **No (use an App).**
 *   **Why:** It is much smaller/easier than the Louvre. You won't get lost.
 *   **Recommendation:** Download the **Rick Steves Audio Guide** (Free) and wander the 5th floor (Impressionists) yourself.
@@ -268,74 +226,82 @@ If you want >3 hours (start guided, end solo):
 *   **Why:** Paid food tours are great, but my **"Foodie Marathon"** and **"Montmartre"** maps cover the exact same spots for free. Spend the money on more pastries instead.
 
 
-## 🍽 Dining (Dairy-Conscious)
-- Septime (modern French)
-- Clamato (seafood, casual)
-- Mokonuts (lunch/brunch)
-- [Use allergy card in French]
+## 📚 The Collections (All Options)
+*Use these lists to swap items into your itinerary or find alternatives on the fly.*
 
 ### 🍴 Deb Perelman's Picks (Smitten Kitchen)
 > [!NOTE]
 > Source: [A Few Trips to Paris](https://smittenkitchen.com/travel/a-few-trips-to-paris/)
 
-**🥐 Bakeries & Breakfast**
+**🥐 Bakeries & Breakfast** <span id="bak-breakfast"></span>
 👉 **[🗺️ View Local Map of All Bakeries](https://www.google.com/maps/dir/Du+Pain+des+Id%C3%A9es,+Paris/Stohrer,+Paris/Brasserie+Vaudeville,+Paris/Leonie+Bakery,+Paris/Holybelly+5,+Paris/The+French+Bastards,+Rue+Oberkampf,+Paris/Bl%C3%A9+Sucr%C3%A9,+Paris/Boulangerie+Utopie,+Paris/Poil%C3%A2ne,+Rue+du+Cherche-Midi,+Paris/Maison+Landemaine,+Rue+des+Martyrs,+Paris)**
 
 - **[Du Pain des Idées](https://dupaindesidees.com/):** Incredible croissants (raspberry escargot recommended).
 - **[Stohrer](https://stohrer.fr/):** Oldest bakery, dream croissants, famous for baba au rhum.
 - **[Brasserie Vaudeville](https://vaudevilleparis.com/):** Classic French breakfast.
 - **[Leonie Bakery](https://www.leoniebakery.com/):** Excellent croissants.
-- **[Holybelly](https://holybellycafe.com/):** Aussie-style brunch (go early!).
+- <span id="holybelly"></span>**[Holybelly](https://holybellycafe.com/):** Aussie-style brunch (go early!).
 - **[The French Bastards](https://thefrenchbastards.fr/):** (Implicit in "The French Bastards" vibe, but listed separately in generic lists usually—sticking to article: **The French Bastards** for pastries).
 - **[Blé Sucré](https://blesucre.fr/):** Madeleines and croissants.
 - **[Boulangerie Utopie](https://boulangerieutopie.com/):** Pain au chocolat & lemon tart.
 - **[Poilâne](https://www.poilane.com/):** Punitions (butter cookies).
 - **[Maison Landemaine](https://www.maisonlandemaine.com/):** Focaccias.
 
-**🍽 Lunch & Dinner**
+**🍽 Lunch & Dinner** <span id="lunch--dinner"></span>
 👉 **[🗺️ View Local Map of All Lunch & Dinner Spots](https://www.google.com/maps/dir/Kubri,+Paris/Chez+Omar,+Paris/Pink+Mamma,+Paris/Aux+Bons+Crus,+Paris/21+Martorell,+Rue+de+Douai,+Paris/Le+Bon+Georges,+Paris/Poulette,+Rue+Etienne+Marcel,+Paris/Breizh+Cafe,+Rue+Vieille+du+Temple,+Paris/Ellsworth,+Paris/Semilla,+Paris/Clarks+Hot+Dog,+Paris)**
 
-- **[Kubri](https://www.kubri-restaurant.com/):** Lebanese, "favorite meal of the trip" (2024). Don't miss.
-- **[Chez Omar](https://www.google.com/maps/search/?api=1&query=Chez+Omar+Paris):** Classic couscous & baklava, fun atmosphere.
-- **[Pink Mamma](https://www.bigmammagroup.com/en/trattorias/pink-mamma):** Italian, gorgeous space (top floor), truffle pasta. Book in advance!
+- <span id="kubri"></span>**[Kubri](https://www.kubri-restaurant.com/):** Lebanese, "favorite meal of the trip" (2024). Don't miss.
+- <span id="chez-omar"></span>**[Chez Omar](https://www.google.com/maps/search/?api=1&query=Chez+Omar+Paris):** Classic couscous & baklava, fun atmosphere.
+- <span id="pink-mamma"></span>**[Pink Mamma](https://www.bigmammagroup.com/en/trattorias/pink-mamma):** Italian, gorgeous space (top floor), truffle pasta. Book in advance!
 - **[Aux Bons Crus](https://www.auxbonscrus.fr/):** Classic bistro, escargot, crème brûlée.
 - **[21 Martorell Crêperie](https://www.instagram.com/21martorell/):** Galettes & crêpes, good for brunch/lunch.
-- **[Le Bon Georges](https://lebongeorges.paris/):** Bistro classics, steak frites, chocolate mousse.
+- <span id="le-bon-georges"></span>**[Le Bon Georges](https://lebongeorges.paris/):** Bistro classics, steak frites, chocolate mousse.
 - **[Poulette](https://www.pouletterestaurant.com/):** Classic bistro, rhubarb tart.
-- **[Breizh Café](https://www.breizhcafe.com/):** Salted caramel crêpes (classic).
-- **[Ellsworth](https://www.ellsworthparis.com/):** Modern small plates (famous fermented potato bread/fried chicken).
+- <span id="breizh-cafe"></span>**[Breizh Café](https://www.breizhcafe.com/):** Salted caramel crêpes (classic).
+- <span id="ellsworth"></span>**[Ellsworth](https://www.ellsworthparis.com/):** Modern small plates (famous fermented potato bread/fried chicken).
 - **[Semilla](https://www.semillaparis.com/) / [Freddy's](https://www.google.com/maps/search/?api=1&query=Freddys+Paris):** (Often mentioned in her other lists, but sticking to this article's explicit mentions).
 - **[Clark’s Hot Dogs](https://clarkhotdog.fr/):** Walk-up window, excellent hot dogs.
 
-**🍹 Treats & Drinks**
+**🍹 Treats & Drinks** <span id="treats--drinks"></span>
 👉 **[🗺️ View Local Map of All Treats](https://www.google.com/maps/dir/Maison+Aleph,+Paris/Le+Mary+Celeste,+Paris/Carette,+Place+du+Trocadero,+Paris/Combat,+Rue+de+Belleville,+Paris/Jacques+Genin,+Rue+de+Turenne,+Paris/Pierre+Herme,+Rue+Bonaparte,+Paris)**
 
-- **[Maison Aleph](https://www.maisonaleph.com/):** Filo tarts & housemade rochers (ferrero-style).
-- **[Le Mary Celeste](https://www.lemaryceleste.com/):** Cocktails & famous deviled eggs.
+- <span id="maison-aleph"></span>**[Maison Aleph](https://www.maisonaleph.com/):** Filo tarts & housemade rochers (ferrero-style).
+- <span id="le-mary-celeste"></span>**[Le Mary Celeste](https://www.lemaryceleste.com/):** Cocktails & famous deviled eggs.
 - **[Carette](https://carette-paris.fr/):** Hot chocolate (Trocadero).
 - **[Combat](https://www.instagram.com/combat.belleville/):** Slushie gin-and-tonics.
-- **[Jacques Genin](https://jacquesgenin.fr/):** Caramels & pâtes de fruits.
-- **[Pierre Hermé](https://www.pierreherme.com/):** Innovative macarons.
+- <span id="jacques-genin"></span>**[Jacques Genin](https://jacquesgenin.fr/):** Caramels & pâtes de fruits.
+- <span id="pierre-herme"></span>**[Pierre Hermé](https://www.pierreherme.com/):** Innovative macarons.
 - **[Berthillon](https://www.berthillon.fr/):** (Implicit classic, but **Une Glace à Paris** often cited by her in other contexts—sticking to text: **G. Detou** for ingredients).
 
-**🎨 Sights & Activities**
+**🎨 Sights & Activities** <span id="sights--activities"></span>
 👉 **[🗺️ View Local Map of Sights](https://www.google.com/maps/dir/Bateaux+Mouches,+Paris/Sainte-Chapelle,+Paris/Musee+d'Orsay,+Paris/Centre+Pompidou,+Paris/Musee+des+Arts+Forains,+Paris/Coulee+Verte+Rene-Dumont,+Paris/Atelier+des+Lumieres,+Paris)**
 
-- **[Bateaux Mouches](https://www.bateaux-mouches.fr/):** Sunset river cruise (classic first-night activity).
-- **[Sainte-Chapelle](https://www.sainte-chapelle.fr/):** Stunning stained glass (book ahead!).
-- **[Musée d’Orsay](https://www.musee-orsay.fr/):** Impressionist art (Van Gogh, etc.).
-- **[Centre Pompidou](https://www.centrepompidou.fr/):** Modern art (closing 2025 for reno!).
-- **[Musée des Arts Forains](https://arts-forains.com/):** Fairground museum (whimsical).
-- **[Coulée Verte](https://www.paris.fr/equipements/coulee-verte-rene-dumont-1772):** "High Line" of Paris (elevated park).
-- **[Atelier des Lumières](https://www.atelier-lumieres.com/):** Immersive art projections.
+- <span id="bateaux-mouches"></span>**[Bateaux Mouches](https://www.bateaux-mouches.fr/):** Sunset river cruise (classic first-night activity).
+- <span id="sainte-chapelle"></span>**[Sainte-Chapelle](https://www.sainte-chapelle.fr/):** Stunning stained glass (book ahead!).
+- <span id="musee-orsay"></span>**[Musée d’Orsay](https://www.musee-orsay.fr/):** Impressionist art (Van Gogh, etc.).
+- <span id="centre-pompidou"></span>**[Centre Pompidou](https://www.centrepompidou.fr/):** Modern art (closing 2025 for reno!).
+- <span id="arts-forains"></span>**[Musée des Arts Forains](https://arts-forains.com/):** Fairground museum (whimsical).
+- <span id="coulee-verte"></span>**[Coulée Verte](https://www.paris.fr/equipements/coulee-verte-rene-dumont-1772):** "High Line" of Paris (elevated park).
+- <span id="atelier-lumieres"></span>**[Atelier des Lumières](https://www.atelier-lumieres.com/):** Immersive art projections.
 
-**🛍 Shopping**
+### 🥗 "The Bench" (Alternatives & High-Quality Backups)
+
+**Dairy-Conscious / Modern French**
+- <span id="septime"></span>**[Septime](https://www.septime-charonne.fr)** (modern French) - *Hard to get but world-class.*
+- <span id="clamato"></span>**[Clamato](https://www.clamato-charonne.fr)** (seafood, casual) - *No res needed, great for flexibility.*
+- <span id="mokonuts"></span>**[Mokonuts](https://www.mokonuts.com)** (lunch/brunch) - *Cookie famous, verified amazing.*
+
+**Shopping (The List)** <span id="shopping"></span>
 👉 **[🗺️ View Local Map of Shops](https://www.google.com/maps/dir/G.+Detou,+Paris/E.+Dehillerin,+Paris/La+Tresorerie,+Paris/Citypharma,+Paris)**
-
-- **[G. Detou](https://www.google.com/maps/search/?api=1&query=G+Detou+Paris):** Baking ingredients (vanilla beans, chocolate).
+- **[G. Detou](https://www.google.com/maps/search/?api=1&query=G+Detou+Paris):** Baking ingredients.
 - **[E. Dehillerin](https://www.e-dehillerin.fr/):** Cookware heaven.
 - **[La Trésorerie](https://latresorerie.fr/):** Tableware.
 - **[City Pharma](https://pharmacie-citypharma.fr/):** Skincare (classic stop).
 
-## 🍷 Wine Note
-**Sancerre** is everywhere in Paris – perfect for white wine lovers. Also try Muscadet or Chablis.
+**Walking Maps (Reference)**
+- **[Grand Axis Map](#1-the-grand-axis-hardy-sightseeing-walk)**
+- **[Right Bank Foodie Map](#2-the-right-bank-foodie-marathon-deb-perelman-edition)**
+- **[Zone A (Left Bank)](#zone-a-the-royal-left-bank-eiffel-to-orsay)**
+- **[Zone B (Latin Quarter)](#zone-b-the-intellectual-heart-latin-quarter-deep-dive)**
+- **[Zone C (Marais)](#zone-c-the-historic-east-bakers-block-to-bastille)**
+- **[Zone D (Montmartre)](#zone-d-the-artistic-heights-montmartre-mega-walk)**
